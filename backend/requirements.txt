@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+sqlalchemy
+psycopg2-binary
+geoalchemy2
+geopandas
+shapely
+pyproj
+numpy
+pandas
+httpx
+pytest
+pytest-asyncio
+python-multipart

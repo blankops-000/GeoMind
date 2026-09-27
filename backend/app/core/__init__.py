@@ -1,0 +1,3 @@
+"""
+GeoMind AI Core Module
+"""

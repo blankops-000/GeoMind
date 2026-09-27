@@ -1,0 +1,59 @@
+{
+  "analysis_id": "00000000-0000-0000-0000-000000000001",
+  "status": "completed",
+  "query": {
+    "original": "Which areas have limited healthcare access?",
+    "interpreted": {
+      "intent": "accessibility",
+      "target": "healthcare_access"
+    }
+  },
+  "map": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[36.5,-1.5],[37.0,-1.5],
+                           [37.0,-1.1],[36.5,-1.1],[36.5,-1.5]]]
+        },
+        "properties": {
+          "feature_type": "high_need_area",
+          "label": "High Need Area",
+          "confidence": 0.82,
+          "area_km2": 12.4
+        }
+      }
+    ]
+  },
+  "statistics": {
+    "total_features": 10,
+    "high_need_areas": 1,
+    "population_affected": 48200
+  },
+  "findings": [
+    {
+      "title": "1 high-need area identified",
+      "description": "Spatial analysis flagged one area.",
+      "confidence": 0.82
+    }
+  ],
+  "insight": {
+    "headline": "One area shows limited healthcare access",
+    "summary": "Spatial analysis identified a single high-need area.",
+    "key_findings": [
+      "10 health facilities analyzed",
+      "1 area flagged as high-need",
+      "Approx. 48,200 people potentially affected"
+    ],
+    "confidence": "medium"
+  },
+  "provenance": [
+    { "source": "synthetic_demo", "dataset": "demo_region" }
+  ],
+  "confidence": { "overall": 0.82 },
+  "limitations": [
+    "Demo data — synthetic placeholder for MVP integration"
+  ]
+}
