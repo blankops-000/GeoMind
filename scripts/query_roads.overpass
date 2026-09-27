@@ -1,0 +1,6 @@
+[out:json][timeout:120];
+area["name"="Nairobi"]["admin_level"="4"]->.a;
+(
+  way["highway"~"^(motorway|trunk|primary|secondary|tertiary)$"](area.a);
+);
+out geom qt;

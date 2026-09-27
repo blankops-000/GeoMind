@@ -1,0 +1,100 @@
+{
+  "project": "GeoMind AI",
+  "version": "1.0.0",
+  "created_at": "2026-09-27T16:00:00Z",
+  "demo_area": "Nairobi County, Kenya",
+  "bounding_box": {
+    "west": 36.65,
+    "south": -1.45,
+    "east": 37.10,
+    "north": -1.15
+  },
+  "crs": "EPSG:4326 (WGS 84)",
+  "datasets": [
+    {
+      "id": "01_health_facilities",
+      "name": "Kenya Health Facilities (KMHFR & OSM)",
+      "formats": ["CSV", "GeoJSON"],
+      "files": [
+        "01_health_facilities/health_facilities.csv",
+        "01_health_facilities/health_facilities.geojson"
+      ],
+      "feature_count": 1139,
+      "attributes": [
+        "id",
+        "facility_code",
+        "name",
+        "facility_type",
+        "keph_level",
+        "ownership",
+        "owner_type",
+        "operational_status",
+        "county",
+        "latitude",
+        "longitude"
+      ],
+      "source": "KMHFR / OpenStreetMap Contributors / HOTOSM",
+      "license": "ODbL / Government Open Data"
+    },
+    {
+      "id": "02_boundaries",
+      "name": "Administrative Boundaries",
+      "formats": ["GeoJSON"],
+      "files": [
+        "02_boundaries/counties.geojson",
+        "02_boundaries/subcounties.geojson",
+        "02_boundaries/wards.geojson"
+      ],
+      "levels": ["County (47)", "Subcounty (15 in Nairobi)", "Ward (85 in Nairobi)"],
+      "source": "geoBoundaries / HDX / Kenya Open Data",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "03_population",
+      "name": "WorldPop Population Model",
+      "formats": ["GeoTIFF"],
+      "files": [
+        "03_population/population.tif"
+      ],
+      "resolution": "100m",
+      "source": "WorldPop / University of Southampton",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "04_roads",
+      "name": "Transportation & Road Corridors",
+      "formats": ["GeoJSON"],
+      "files": [
+        "04_roads/roads.geojson"
+      ],
+      "feature_count": 300,
+      "road_classes": ["motorway", "trunk", "primary", "secondary", "tertiary"],
+      "source": "OpenStreetMap Contributors",
+      "license": "ODbL"
+    },
+    {
+      "id": "05_osm",
+      "name": "OpenStreetMap Contextual Layer",
+      "formats": ["GeoJSON"],
+      "files": [
+        "05_osm/osm_data.geojson"
+      ],
+      "source": "OpenStreetMap Contributors",
+      "license": "ODbL"
+    },
+    {
+      "id": "06_satellite",
+      "name": "Sentinel-2 Multi-Spectral Satellite Imagery",
+      "formats": ["GeoTIFF"],
+      "files": [
+        "06_satellite/imagery_2024.tif",
+        "06_satellite/imagery_2026.tif"
+      ],
+      "resolution": "10m",
+      "bands": ["B02 (Blue)", "B03 (Green)", "B04 (Red)", "B08 (NIR)"],
+      "tiles": ["T37MBU", "T37MBT"],
+      "source": "Copernicus Data Space Ecosystem (ESA)",
+      "license": "Copernicus Open Access"
+    }
+  ]
+}

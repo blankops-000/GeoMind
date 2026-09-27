@@ -1,0 +1,1140 @@
+﻿id,facility_code,name,facility_type,keph_level,ownership,owner_type,operational_status,county,latitude,longitude
+494148940,OSM_494148940,"A B C Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2597881,36.7772593
+612004553,OSM_612004553,"lakaside chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3144232,36.7827122
+612004989,OSM_612004989,"community chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3106044,36.7923902
+612006969,OSM_612006969,"St Elizabeth Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3109131,36.7900408
+612006973,OSM_612006973,"Mwangaza Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3117701,36.7927883
+612007081,OSM_612007081,"Royal Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3158943,36.7938883
+612007083,OSM_612007083,"Shachif Health Unit",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3158759,36.7952358
+612007120,OSM_612007120,"Alshariff chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3096890,36.7868134
+612007202,OSM_612007202,"Senye Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3144036,36.7761783
+612007391,OSM_612007391,"Frepals Nursing Home",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3117443,36.7929726
+612007438,OSM_612007438,"Upendo Vision Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3078684,36.7860504
+612007453,OSM_612007453,"New Makina Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3071984,36.7863291
+612007454,OSM_612007454,"Amanda Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3069635,36.7870738
+612007456,OSM_612007456,"St Augustus Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3072303,36.7888230
+612007539,OSM_612007539,"Wema Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3179274,36.7782341
+612007778,OSM_612007778,"Saola Health Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3117185,36.7991031
+612008350,OSM_612008350,"Nafuu chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3150000,36.7859881
+612008410,OSM_612008410,"Raisi chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3096893,36.7859966
+612008488,OSM_612008488,"St Mac's Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3119267,36.7977924
+612008640,OSM_612008640,"Silanga Dispensary",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3173678,36.7960570
+612008667,OSM_612008667,"Marie Stopes Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3079831,36.7892032
+612008688,OSM_612008688,"Rose Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3118057,36.7924839
+612008709,OSM_612008709,"Rail Side Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3152300,36.8028346
+612008760,OSM_612008760,"Senye Medical Clinic and Laboratory",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3129567,36.7754911
+612008801,OSM_612008801,"St Knight Medical Clinic",Clinic,Level 3,"OWNER",Private,Operational,Nairobi,-1.3145607,36.7828489
+612008803,OSM_612008803,"Lake side clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3144838,36.7826673
+612008876,OSM_612008876,"Elmac Chemist",Pharmacy,Level 2,"Alfred shisungu",Private,Operational,Nairobi,-1.3135619,36.7774467
+612008905,OSM_612008905,"Loving Hearts Dispensary",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3144691,36.7903394
+612008945,OSM_612008945,"Bedan Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3129475,36.7949758
+612008958,OSM_612008958,"St. Edith Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3119244,36.7938832
+612008964,OSM_612008964,"Kishep Medical Centre and Dental Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3128435,36.7959341
+612009048,OSM_612009048,"Silanga ACK Emmanuel Clinic and Lab",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3178475,36.7992748
+612009072,OSM_612009072,"Lee-Med Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3108588,36.7758463
+612009096,OSM_612009096,"Mizima Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3147520,36.7841913
+612009233,OSM_612009233,"Goodwill Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3090820,36.7903898
+612009235,OSM_612009235,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3075107,36.7889224
+612009265,OSM_612009265,"Mareba Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3065921,36.7834906
+612009390,OSM_612009390,"Kibera Family Drugs and Medication Information Centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3143199,36.7824399
+612009706,OSM_612009706,"Herbal Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3077136,36.7861039
+612010343,OSM_612010343,"Mzima Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3147676,36.7842819
+612010735,OSM_612010735,"Esther Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3117524,36.7926652
+612011308,OSM_612011308,"Cahm Herbal and Nutrition Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3131964,36.7973847
+612011373,OSM_612011373,"Eagle's Family Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3118160,36.7979024
+612011505,OSM_612011505,"Carol Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3169664,36.7966099
+696526809,OSM_696526809,"Mary Medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3133844,36.7964865
+696542681,OSM_696542681,"Mama Sofi mkunga/Bibi",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3112945,36.7888564
+696543032,OSM_696543032,"Mtaani VCT",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3133393,36.7985247
+696555670,OSM_696555670,"parkside dispensing chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3086289,36.7730892
+696610501,OSM_696610501,"Hope Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3147088,36.7763032
+696610502,OSM_696610502,"Mini Prime Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3154840,36.7754620
+696655680,OSM_696655680,"Neema",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3130303,36.7775527
+696655689,OSM_696655689,"Ledos",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3130412,36.7798683
+696655693,OSM_696655693,"Pollar pharm",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3117037,36.7773192
+696655697,OSM_696655697,"Nafuu Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3124115,36.7781982
+696655707,OSM_696655707,"Lazarus Herbal Solution",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3116403,36.7782091
+696656807,OSM_696656807,"Mid Rift Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3163293,36.7950543
+696656808,OSM_696656808,"Silanga Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3167834,36.7955008
+696656810,OSM_696656810,"Okoa Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3168583,36.7958725
+696656815,OSM_696656815,"St Emmaculate James",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3172686,36.7978807
+696677374,OSM_696677374,"St Beeja Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3133638,36.7854170
+696677376,OSM_696677376,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3127699,36.7892366
+696772467,OSM_696772467,"Universe Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3171214,36.7946621
+696772525,OSM_696772525,"Organic Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3167646,36.7949559
+696774091,OSM_696774091,"Gemkam Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3170903,36.7967088
+696864912,OSM_696864912,"St Knight Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3171860,36.7975113
+698467045,OSM_698467045,"Beienish Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3077532,36.7828482
+698467048,OSM_698467048,"Home Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3085224,36.7841332
+698467060,OSM_698467060,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3082133,36.7837990
+698467073,OSM_698467073,"Makina Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3100272,36.7882765
+698476596,OSM_698476596,"Herberlist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3075323,36.7826819
+698476716,OSM_698476716,"Quick Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3076781,36.7826336
+698476726,OSM_698476726,"Pona Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3078314,36.7831506
+698478562,OSM_698478562,"Jamii Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3085474,36.7856507
+698525854,OSM_698525854,"Jaribu Herbs",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3113121,36.7874552
+698525856,OSM_698525856,"Herbalist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3114775,36.7881186
+698541774,OSM_698541774,"Kisembo Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3132558,36.7899997
+698541828,OSM_698541828,"Community Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3121943,36.7923376
+698541830,OSM_698541830,"St Edith",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3124734,36.7924258
+698541835,OSM_698541835,"Frepals Maternity",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3120224,36.7923801
+698541837,OSM_698541837,"Meru Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3120370,36.7923911
+698541840,OSM_698541840,"Jahoma Bay Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3119095,36.7926738
+698592301,OSM_698592301,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3087718,36.7901495
+698592302,OSM_698592302,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3090739,36.7903840
+698592304,OSM_698592304,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3080445,36.7894352
+698592305,OSM_698592305,"community",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3142960,36.7960183
+698592306,OSM_698592306,"Community Royal clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3138445,36.7964847
+698592314,OSM_698592314,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3122271,36.7977084
+698592324,OSM_698592324,"St.Angela Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3072492,36.7888229
+698602287,OSM_698602287,"Balozi",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3121023,36.7783046
+698602288,OSM_698602288,"Amalasia",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3119434,36.7783566
+698602290,OSM_698602290,"REMS",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3124345,36.7822737
+698602291,OSM_698602291,"Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3072052,36.7825137
+698602292,OSM_698602292,"Kibera Herbalist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3059372,36.7875633
+698629331,OSM_698629331,"Hiltop Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3154417,36.7790203
+698629339,OSM_698629339,"Blue Cross Community Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3153123,36.7793682
+698629343,OSM_698629343,"Nango Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3148950,36.7847122
+701794585,OSM_701794585,"Jamii Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3121691,36.7752627
+701794601,OSM_701794601,"Sisi Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3111346,36.7750931
+701794605,OSM_701794605,"Ayany Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3111319,36.7756493
+701794614,OSM_701794614,"Terminus Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3111207,36.7760790
+701794619,OSM_701794619,"Omweri Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3105992,36.7757249
+701794627,OSM_701794627,"Rahisi Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3096087,36.7732727
+701794632,OSM_701794632,"YU 42Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3101169,36.7734887
+701794640,OSM_701794640,"Tumaini Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3087557,36.7731928
+701794691,OSM_701794691,"Olive Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3108623,36.7816908
+701794697,OSM_701794697,"Karanja Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3100685,36.7806050
+701794717,OSM_701794717,"Jadunga Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3113608,36.7828675
+701794734,OSM_701794734,"Brimart Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3109184,36.7831096
+701797825,OSM_701797825,"Community chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3114452,36.7902544
+701797853,OSM_701797853,"Jomingo Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3164404,36.7948678
+701797857,OSM_701797857,"community chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3163416,36.7951081
+708659008,OSM_708659008,"Ado pharm Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3078404,36.7820031
+708685448,OSM_708685448,"Community Herbalist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3114328,36.7873282
+708685449,OSM_708685449,"Mt. Kenya Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3108793,36.7883787
+708685749,OSM_708685749,"Revival Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3156345,36.7753937
+708731820,OSM_708731820,"Ja dunga",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3111486,36.7755719
+708750143,OSM_708750143,"Kisum Community Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3179486,36.7990293
+708750146,OSM_708750146,"Undugu Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3179328,36.7990986
+708750160,OSM_708750160,"Nyasira Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3147918,36.8002154
+708765476,OSM_708765476,"Natural Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3077733,36.7851718
+720900819,OSM_720900819,"Nairobi West Childrens Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3131440,36.8191241
+813086068,OSM_813086068,"Health Facility (OSM #813086068)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2485344,36.7974107
+856776627,OSM_856776627,"Uzima Chemist",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3150604,36.7824610
+874841892,OSM_874841892,"Community Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3147947,36.7922037
+878845728,OSM_878845728,"Proposed Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3250519,36.8878761
+878846165,OSM_878846165,"Kingori Medical Centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3184750,36.8844413
+878846200,OSM_878846200,"Hope Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3190542,36.8877584
+878846270,OSM_878846270,"Katope Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3172850,36.8786013
+878846315,OSM_878846315,"Kemer Junior Medical Centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3160883,36.8785253
+878846969,OSM_878846969,"jobe medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3159758,36.8862514
+878847326,OSM_878847326,"AFYA MEDICAL CLINIC",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3180392,36.8873739
+878847446,OSM_878847446,"UZIMA MEDICAL CLINIC",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3177587,36.8868036
+911044039,OSM_911044039,"Upper Hill Medical Centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2944971,36.8068848
+914492931,OSM_914492931,"Hope Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3230048,36.8857691
+914492933,OSM_914492933,"Sunrise Medicare",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3212211,36.8842169
+914492970,OSM_914492970,"Riverside Medical",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3170613,36.8800836
+914492972,OSM_914492972,"Sunrise Medicare",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3167416,36.8790956
+927268420,OSM_927268420,"University Mobile Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2796122,36.8155523
+929942246,OSM_929942246,"Student's Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2782734,36.8107235
+949597358,OSM_949597358,"Mednoor Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3209231,36.8863598
+949597378,OSM_949597378,"Sidarec Mukuru Community Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3201199,36.8850330
+949597526,OSM_949597526,"Lea Toto Community (Mukuru Reuben)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3159102,36.8694824
+949598013,OSM_949598013,"Alice Nursing Home",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3144256,36.8844253
+949598225,OSM_949598225,"Huruma Nursing Home",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3165544,36.8922635
+1038103795,OSM_1038103795,"Uzima clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2633972,36.8599901
+1038103805,OSM_1038103805,"Maisha clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2627701,36.8601884
+1038193546,OSM_1038193546,"UnduguMedical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2645991,36.8573823
+1038202656,OSM_1038202656,"Health Facility (OSM #1038202656)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2618123,36.8601064
+1038202692,OSM_1038202692,"Neigbourhood chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2584587,36.8619385
+1038202811,OSM_1038202811,"Baraka german doctors/feeding programme",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2585631,36.8607678
+1038202846,OSM_1038202846,"Health Facility (OSM #1038202846)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2583704,36.8621280
+1038219168,OSM_1038219168,"Nuffield Medical Service Providers",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2534479,36.8702577
+1101638771,OSM_1101638771,"Huduma Bora Medics Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2638847,36.8442079
+1103092191,OSM_1103092191,"Health Facility (OSM #1103092191)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2601312,36.8646522
+1103092401,OSM_1103092401,"Boodad Communicatiion Lifeguard Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2631360,36.8615677
+1103092408,OSM_1103092408,"Health Facility (OSM #1103092408)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2624673,36.8631166
+1103092466,OSM_1103092466,"Kim's Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2599385,36.8647240
+1103092490,OSM_1103092490,"Health Facility (OSM #1103092490)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2621648,36.8629112
+1110227333,OSM_1110227333,"4B Dispensing",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2634070,36.8568156
+1110239842,OSM_1110239842,"Mlango kubwa health care centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2658072,36.8456235
+1110239846,OSM_1110239846,"East chem medical",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2652685,36.8453052
+1110239850,OSM_1110239850,"Blessed Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2649739,36.8449910
+1110239855,OSM_1110239855,"LIZ Rich medical",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2661003,36.8451480
+1110239857,OSM_1110239857,"Be well chemists",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2651518,36.8440642
+1110239864,OSM_1110239864,"Beden",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2659536,36.8456541
+1111566296,OSM_1111566296,"Life Care Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2568688,36.8755944
+1111566368,OSM_1111566368,"Dispensing Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2575070,36.8744569
+1111566426,OSM_1111566426,"MEDINA CHEMIST",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2555289,36.8760150
+1111586848,OSM_1111586848,"Drug Port",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2522877,36.8696384
+1123193294,OSM_1123193294,"Precise hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2597152,36.8675693
+1123201086,OSM_1123201086,"Amani Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2575008,36.8691087
+1123201098,OSM_1123201098,"Urban rural initiative overal dev.health providers",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2581256,36.8720746
+1123201133,OSM_1123201133,"Transmax chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2575181,36.8690020
+1123209250,OSM_1123209250,"Dawaline Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2542863,36.8763409
+1124602228,OSM_1124602228,"Late night chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2588895,36.8644632
+1124602251,OSM_1124602251,"Lions health clinic mathare valley",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2615407,36.8658548
+1204018371,OSM_1204018371,"Langata Chemists",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3274282,36.7891308
+1249726626,OSM_1249726626,"Lazawil Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3098881,36.7808468
+1249726647,OSM_1249726647,"Rahisi Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3096646,36.7860770
+1249779969,OSM_1249779969,"Brimat Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3076061,36.7826426
+1271155392,OSM_1271155392,"Jamko health clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2934830,36.7916908
+1367647606,OSM_1367647606,"Nakhayo Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3114323,36.7879942
+1417861337,OSM_1417861337,"Mediva Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3181185,36.8820091
+1417861348,OSM_1417861348,"Imani Health Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3181559,36.8823115
+1417918726,OSM_1417918726,"Unity Medical Services",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3153677,36.8836506
+1417918727,OSM_1417918727,"Vision View Medical Services",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3139841,36.8845362
+1419005001,OSM_1419005001,"St Teresa Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3152805,36.8858040
+1419101746,OSM_1419101746,"Mukuru Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3222884,36.8871647
+1419101749,OSM_1419101749,"Mertenity clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3194486,36.8870753
+1419101775,OSM_1419101775,"Scion Health care",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3279842,36.8921922
+1432507872,OSM_1432507872,"Afya dispesing clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3168652,36.8739347
+1432507883,OSM_1432507883,"Caprikema medical chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3186676,36.8759058
+1432507889,OSM_1432507889,"Col-phrm chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3168413,36.8768954
+1432508000,OSM_1432508000,"MASCO medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3151124,36.8765197
+1432508012,OSM_1432508012,"Mara health centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3162694,36.8762103
+1432508020,OSM_1432508020,"Mwa medical clinic and maternity",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3195476,36.8744960
+1432508035,OSM_1432508035,"P.M.C. medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3141650,36.8757343
+1432508036,OSM_1432508036,"Paradise med clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3191429,36.8755759
+1432508038,OSM_1432508038,"Pona medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3114500,36.8673918
+1432508043,OSM_1432508043,"Riverside medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3114625,36.8667687
+1432508056,OSM_1432508056,"St. Mark Mediacal clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3159950,36.8755193
+1432508057,OSM_1432508057,"St. Mathias medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3162037,36.8758475
+1432508063,OSM_1432508063,"Tumaini comm health service",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3155171,36.8749580
+1432508108,OSM_1432508108,"wadani hospital",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3189993,36.8734433
+1437347843,OSM_1437347843,"Kengori med clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3192234,36.8740813
+1437347851,OSM_1437347851,"Lagos cilinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3173648,36.8712288
+1437348030,OSM_1437348030,"Rueben Medical Clinic Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3159035,36.8746298
+1437348033,OSM_1437348033,"Ponya Clinic Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3161826,36.8743824
+1437348037,OSM_1437348037,"Glory Medical Clinic Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3166605,36.8740710
+1446059176,OSM_1446059176,"Faith medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3165969,36.8663755
+1446059183,OSM_1446059183,"All saint medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3159869,36.8660087
+1446059205,OSM_1446059205,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3159573,36.8663980
+1446059231,OSM_1446059231,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3161969,36.8683438
+1446059245,OSM_1446059245,"Flodo medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3101345,36.8747211
+1446059252,OSM_1446059252,"Medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3095087,36.8775998
+1446059260,OSM_1446059260,"clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3148491,36.8681870
+1446059307,OSM_1446059307,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3097834,36.8761695
+1446059335,OSM_1446059335,"Riders medical centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3098851,36.8757267
+1453526846,OSM_1453526846,"Meridian Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3157016,36.8345608
+1453973005,OSM_1453973005,"chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3137790,36.8492872
+1456685353,OSM_1456685353,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3138007,36.8466790
+1456685402,OSM_1456685402,"Trust and Rejoice Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3138668,36.8480561
+1456685442,OSM_1456685442,"nelima chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3139484,36.8470319
+1483304307,OSM_1483304307,"chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3071340,36.8389445
+1483304308,OSM_1483304308,"chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3073265,36.8390228
+1486028890,OSM_1486028890,"Upendo Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3130710,36.8497213
+1493484799,OSM_1493484799,"Enina clinic &",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3113055,36.8451478
+1499916442,OSM_1499916442,"Health Facility (OSM #1499916442)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3092694,36.8370698
+1500016752,OSM_1500016752,"Health Facility (OSM #1500016752)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3084388,36.8353341
+1500016771,OSM_1500016771,"Trust and Rejoice Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3109108,36.8380938
+1500016792,OSM_1500016792,"Health Facility (OSM #1500016792)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3118338,36.8453885
+1500016798,OSM_1500016798,"Trust and Rejoice Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3119287,36.8429585
+1500016806,OSM_1500016806,"Health Facility (OSM #1500016806)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3121436,36.8455932
+1500016811,OSM_1500016811,"Trust and Rejoice Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3123018,36.8466538
+1500016821,OSM_1500016821,"Trust and Rejoice Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3130784,36.8454937
+1500016839,OSM_1500016839,"Health Facility (OSM #1500016839)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3141903,36.8477224
+1500016842,OSM_1500016842,"Health Facility (OSM #1500016842)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3142406,36.8479813
+1500016847,OSM_1500016847,"Health Facility (OSM #1500016847)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3147887,36.8484894
+1691733175,OSM_1691733175,"Capital Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3121477,36.7785696
+1722620244,OSM_1722620244,"Lindex Dispensing Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3166329,36.7761818
+1722668365,OSM_1722668365,"Stage chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3115149,36.7783202
+1727588861,OSM_1727588861,"family drug center",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3130861,36.7823436
+1727588883,OSM_1727588883,"toresh chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3151478,36.7794846
+1732933877,OSM_1732933877,"Health Facility (OSM #1732933877)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2466004,36.8926260
+1746645844,OSM_1746645844,"Ngumo Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3068658,36.8020944
+1771323211,OSM_1771323211,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3155271,36.7927989
+1801454683,OSM_1801454683,"Ant Hill Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3111143,36.7749430
+1804804138,OSM_1804804138,"Clinic Healthcare Kibera Branch",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3104547,36.7739346
+1804804159,OSM_1804804159,"Triwam Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3105009,36.7739834
+1875796688,OSM_1875796688,"Woodley",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3047254,36.7746747
+1999653263,OSM_1999653263,"Medilink medical centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3117284,36.8707552
+2001001163,OSM_2001001163,"RTI health centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3139158,36.8420619
+2001079052,OSM_2001079052,"Health Facility (OSM #2001079052)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3111864,36.8424343
+2001268286,OSM_2001268286,"Gastine",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3202520,36.8883133
+2051080150,OSM_2051080150,"cheupe chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3151091,36.7998541
+2052594494,OSM_2052594494,"St Edith",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3111604,36.7950002
+2145322136,OSM_2145322136,"The Guardian Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3114875,36.8357858
+2145329589,OSM_2145329589,"The AgaKhan University",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3165225,36.8351152
+2145336812,OSM_2145336812,"Inkamed Pharmeceuticals",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3170221,36.8350245
+2344361838,OSM_2344361838,"Hychem Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2341564,36.8722616
+2349075059,OSM_2349075059,"UBAMA CHEMIST AND CLINIC",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2571174,36.8717263
+2349086737,OSM_2349086737,"DESLAN CHEMIST",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2574945,36.8699116
+2373149870,OSM_2373149870,"GEOJAN CHEMIST",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2542578,36.8589623
+2373149871,OSM_2373149871,"SINAI CHEMIST",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2559436,36.8609509
+2374943965,OSM_2374943965,"Huruma Lions Health Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2609437,36.8667464
+2374989981,OSM_2374989981,"MSF",Clinic,Level 3,"MÃ©decins sans frontiÃ¨res",Private,Operational,Nairobi,-1.2660199,36.8533965
+2378763919,OSM_2378763919,"Deslan chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2575319,36.8692664
+2378763923,OSM_2378763923,"HYPX MEDICARE/CHEMIST",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2575886,36.8689412
+2378763929,OSM_2378763929,"TRANSMAX HEALTHCARE",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2576312,36.8691152
+2378857067,OSM_2378857067,"Benakim chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2599379,36.8647674
+2378857068,OSM_2378857068,"Faith chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2596917,36.8625894
+2378857095,OSM_2378857095,"Giant Foundation Heath Service Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2603440,36.8644588
+2378857096,OSM_2378857096,"Hope chemist",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2617494,36.8611366
+2378857098,OSM_2378857098,"Patriot chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2589601,36.8645038
+2378857100,OSM_2378857100,"Pharm care chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2601979,36.8646842
+2378857107,OSM_2378857107,"Ubora harbal chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2595599,36.8645767
+2378918234,OSM_2378918234,"STJAMES MEDICAL CENTER",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2550849,36.8666202
+2379875626,OSM_2379875626,"Afya stakaseas health centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2615841,36.8544042
+2379875645,OSM_2379875645,"Baraka chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2620373,36.8552985
+2379875680,OSM_2379875680,"Faith care clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2614851,36.8542645
+2379875699,OSM_2379875699,"Mathare4Achemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2620786,36.8552930
+2385083676,OSM_2385083676,"Cordial medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2588022,36.8647768
+2385083681,OSM_2385083681,"Rocks medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2604786,36.8656663
+2385083682,OSM_2385083682,"Urifold clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2604644,36.8670370
+2387208974,OSM_2387208974,"Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2600302,36.8449326
+2388299294,OSM_2388299294,"Deli",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2542673,36.8745588
+2388299297,OSM_2388299297,"Drugpot dispensing chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2551859,36.8734102
+2389187318,OSM_2389187318,"ST. FRANCIS HEALTH SERVICES",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2548620,36.8591679
+2392593371,OSM_2392593371,"Mama africa clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2656576,36.8545433
+2405823273,OSM_2405823273,"Ebenezer Clinic and Chemist",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2487060,36.8831751
+2405823280,OSM_2405823280,"Grace Chemist and Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2489842,36.8832960
+2405823283,OSM_2405823283,"Hope Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2478573,36.8856522
+2405823289,OSM_2405823289,"Joy Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2478133,36.8832957
+2405823297,OSM_2405823297,"Redeemed Gospel Church Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2468798,36.8878506
+2405823306,OSM_2405823306,"St. Florence Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2485588,36.8849476
+2405836256,OSM_2405836256,"Kemrif",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2419951,36.8934590
+2405836267,OSM_2405836267,"Lusky summer tumaini clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2413547,36.8974404
+2405836284,OSM_2405836284,"Powa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2416554,36.8955208
+2405854915,OSM_2405854915,"Green wood medical clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2475640,36.8796434
+2405883356,OSM_2405883356,"Health Facility (OSM #2405883356)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2395054,36.8989494
+2405883359,OSM_2405883359,"Health Facility (OSM #2405883359)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2398660,36.8969407
+2405885991,OSM_2405885991,"Keza Health Care Services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2468717,36.8833340
+2405885993,OSM_2405885993,"Lifecode Medical services",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2476122,36.8832817
+2405886003,OSM_2405886003,"St. Luke Chemist and Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2473833,36.8863667
+2417344957,OSM_2417344957,"Rugi Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.1835073,36.9018753
+2429056286,OSM_2429056286,"Endojet",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3139983,36.7769308
+2433643012,OSM_2433643012,"ramogi chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3105059,36.7741319
+2438933686,OSM_2438933686,"Barod clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3125053,36.7755139
+2438933689,OSM_2438933689,"Kianda Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3110416,36.7759698
+2444298591,OSM_2444298591,"chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3119061,36.7749969
+2452590954,OSM_2452590954,"Health Facility (OSM #2452590954)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3155131,36.7788593
+2452885307,OSM_2452885307,"chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3150268,36.7870608
+2456557487,OSM_2456557487,"Health Facility (OSM #2456557487)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3143810,36.7820663
+2456557497,OSM_2456557497,"Health Facility (OSM #2456557497)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3145235,36.7813515
+2456557502,OSM_2456557502,"Health Facility (OSM #2456557502)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3146086,36.7808497
+2456557504,OSM_2456557504,"Health Facility (OSM #2456557504)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3146341,36.7845498
+2511480633,OSM_2511480633,"Mimosa Pharmacy, Doctor and Laboratory",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2984992,36.7630022
+2700368083,OSM_2700368083,"Kahawa Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.1901171,36.9135547
+3289275202,OSM_3289275202,"The Mater Hospital - Satellite Clinic(TRM)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2198096,36.8889635
+3723143876,OSM_3723143876,"blue cross rehab centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2497515,36.8911906
+3723146925,OSM_3723146925,"legacy dispensing chemist",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2460944,36.8922938
+3723146927,OSM_3723146927,"lema dispensing chemist",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2545455,36.8872415
+3856033696,OSM_3856033696,"Imara Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3087127,36.8363192
+3856033697,OSM_3856033697,"Kwa Kioko Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3091797,36.8370454
+3856033699,OSM_3856033699,"Mukami's Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3091279,36.8369739
+3856033710,OSM_3856033710,"Health Facility (OSM #3856033710)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3092610,36.8370770
+3856040459,OSM_3856040459,"Health Facility (OSM #3856040459)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3092432,36.8398587
+3856040557,OSM_3856040557,"access afya clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3109931,36.8427930
+3856041157,OSM_3856041157,"clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3096160,36.8402544
+3856041357,OSM_3856041357,"clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3111881,36.8423509
+3856041557,OSM_3856041557,"clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3112350,36.8422760
+3856041558,OSM_3856041558,"omwabo phermacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3080520,36.8392398
+3856041758,OSM_3856041758,"Health Facility (OSM #3856041758)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3075964,36.8391947
+3856041857,OSM_3856041857,"imara community clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3100216,36.8400810
+3856041957,OSM_3856041957,"jan medical clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3081780,36.8379076
+3856068142,OSM_3856068142,"Imara 2 Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3092628,36.8399291
+3856068144,OSM_3856068144,"Kingori Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3095825,36.8405038
+3856068146,OSM_3856068146,"Mwema Dispensary",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3095300,36.8403464
+3856101439,OSM_3856101439,"Imara Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3124379,36.8435124
+3856130358,OSM_3856130358,"Afya Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3068679,36.8411435
+3856130361,OSM_3856130361,"fema medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3080599,36.8411628
+3856130660,OSM_3856130660,"andrews chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3088951,36.8392475
+3856130661,OSM_3856130661,"elgomed chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3094189,36.8396699
+3856130857,OSM_3856130857,"baraka chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3083613,36.8392816
+3856131157,OSM_3856131157,"new line chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3090872,36.8391350
+3856148566,OSM_3856148566,"New Hope chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3144214,36.8494253
+3856214669,OSM_3856214669,"Tahidi chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3136689,36.8493361
+3856214865,OSM_3856214865,"Grace medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3139039,36.8475543
+3856214866,OSM_3856214866,"Newstart Herbal",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3136822,36.8493708
+3856214868,OSM_3856214868,"Health Facility (OSM #3856214868)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3143572,36.8494970
+3856215363,OSM_3856215363,"Faith Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3136373,36.8493370
+3856215862,OSM_3856215862,"Daine pharmacare",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3144742,36.8481304
+4500146285,OSM_4500146285,"Rays of Hope Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2654296,36.8513356
+4500146286,OSM_4500146286,"Stahi Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2646233,36.8520614
+4502070185,OSM_4502070185,"Cess Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2625383,36.8502627
+4502070186,OSM_4502070186,"Ebenezer Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2626258,36.8518288
+4502112946,OSM_4502112946,"Branmo Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2645195,36.8582296
+4502112947,OSM_4502112947,"Chaire Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2653308,36.8556758
+4502112948,OSM_4502112948,"Ederp Mathare 3A",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2651922,36.8554829
+4502112949,OSM_4502112949,"Glory2 Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2652895,36.8556582
+4502112970,OSM_4502112970,"Uzima2 clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2641644,36.8592418
+4502203205,OSM_4502203205,"Blessed Chemist Kosovo",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2632584,36.8516740
+4502203216,OSM_4502203216,"Marisa Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2628131,36.8536993
+4502203218,OSM_4502203218,"Seme Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2631862,36.8494006
+4502203219,OSM_4502203219,"St Clare Chemist and Lab Services",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2628340,36.8494759
+4503852990,OSM_4503852990,"Dan's medical center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2627306,36.8552422
+4503879843,OSM_4503879843,"AIC Zion Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2630272,36.8623283
+4503879853,OSM_4503879853,"Villa Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2628447,36.8635412
+4503896057,OSM_4503896057,"Johana Justin Jinnich(Shofco Mathre)",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2634782,36.8577894
+4503959148,OSM_4503959148,"Pona 3 Dispensary",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2631868,36.8568400
+4503972768,OSM_4503972768,"Baraka chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2611150,36.8631879
+4503972775,OSM_4503972775,"Vincent Chemist Mabatini",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2605920,36.8639367
+4504009845,OSM_4504009845,"Bethmed Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2613539,36.8628258
+4504009846,OSM_4504009846,"Glorious Chemist and Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2618779,36.8611808
+4504009847,OSM_4504009847,"Pona Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2620532,36.8605486
+4510460989,OSM_4510460989,"Plainsview Dispensary",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3169513,36.8426153
+4905830422,OSM_4905830422,"AAR Williamsom Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2946543,36.8093440
+4963185917,OSM_4963185917,"Beyond Zero Community Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3112204,36.7821951
+4963203883,OSM_4963203883,"Kianda 42 Dispensary Beyond Zero",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3076660,36.7719374
+4963203884,OSM_4963203884,"Clinic 40 Jesus Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3076369,36.7719083
+4963455954,OSM_4963455954,"Mt. Kenya Chemist and Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3133160,36.7900521
+4963467522,OSM_4963467522,"Chandaria Clinic Shofco",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3111160,36.7735770
+4963467523,OSM_4963467523,"Rosade Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3112114,36.7758653
+4963467524,OSM_4963467524,"Bliss Medical HealthCare",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3104700,36.7739201
+4963467525,OSM_4963467525,"Kinani Medical & Dental Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3104057,36.7739680
+4963507352,OSM_4963507352,"Kibera LVCT Health Dream Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3061438,36.7878260
+4963527054,OSM_4963527054,"Beyond Zero Community Clinic, Raila",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3174781,36.7766047
+4963527055,OSM_4963527055,"Beyond Zero Community Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3163909,36.7759732
+4965328915,OSM_4965328915,"FHOK- Family Care Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3120923,36.7939863
+4965328916,OSM_4965328916,"Vital Solution Elevation Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3132486,36.7952721
+4965328917,OSM_4965328917,"Beyond Zero CBO Soweto",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3176322,36.7994400
+4965328919,OSM_4965328919,"Kibera Soweto M-Afya Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3151610,36.7996680
+4965342340,OSM_4965342340,"Community Mobilizer",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3157734,36.7868505
+4965342342,OSM_4965342342,"Shofco Shinning Hope for Communities",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3156210,36.7805286
+4965351016,OSM_4965351016,"Herbal Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3113933,36.7943161
+4965724936,OSM_4965724936,"Beyond Zero Community Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3141269,36.7785419
+4967614274,OSM_4967614274,"Al- Gadhir Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3097469,36.7854907
+5295711139,OSM_5295711139,"community chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3154332,36.7930962
+5295842439,OSM_5295842439,"Friends chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3156205,36.7934918
+5328478219,OSM_5328478219,"Goodlife Pharmcy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2639059,36.8022288
+5330413790,OSM_5330413790,"Aga Khan Ridgeways Medical Centre",Clinic,Level 3,"Aga Khan University Hospital",Private,Operational,Nairobi,-1.2299963,36.8415830
+5334918491,OSM_5334918491,"Aga Khan University Hospital Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2908247,36.7702909
+5339103764,OSM_5339103764,"Patan Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2847453,36.7597235
+5340559317,OSM_5340559317,"Goodlife Westgate",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2572785,36.8035070
+5340968095,OSM_5340968095,"Dr Harun A. Otieno FACC",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2625569,36.8249575
+5348815008,OSM_5348815008,"Mimosa Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2251070,36.8401871
+5352705127,OSM_5352705127,"Migration Health Assessment Center (MHAC)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2317424,36.8044524
+5360778411,OSM_5360778411,"Goodlife Shell Karen",Pharmacy,Level 2,"Goodlife",Private,Operational,Nairobi,-1.3225795,36.7083993
+5372450531,OSM_5372450531,"The Aga Khan Medical Centre Tmall",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3121609,36.8168874
+5378414084,OSM_5378414084,"Mediplan Clinic Ltd Health Care Consultants",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3001978,36.8224486
+5378551736,OSM_5378551736,"Lords Healthcare Ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2928967,36.8160717
+5378551753,OSM_5378551753,"Kigen Bartilol",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2945593,36.8124954
+5380534546,OSM_5380534546,"Pathway International",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2984412,36.8113444
+5380534547,OSM_5380534547,"German Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2984254,36.8111229
+5383781991,OSM_5383781991,"Haltons Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2897838,36.8115114
+5383793221,OSM_5383793221,"Gilead Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2899138,36.8115943
+5383793246,OSM_5383793246,"AAR Healthcare Williamson Outpatient Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2944572,36.8091171
+5383793260,OSM_5383793260,"Precise Diagnostic Imaging",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2957148,36.8081549
+5383793261,OSM_5383793261,"IncusEar Hearing and E.N.T Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2959296,36.8082667
+5383793265,OSM_5383793265,"Prof Josephat A O Mulimba",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2946882,36.8065013
+5383793266,OSM_5383793266,"Laser Stone & Endoscopy Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2945712,36.8066523
+5383793350,OSM_5383793350,"Comprehensive Care Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3035206,36.8083045
+5401775775,OSM_5401775775,"Careville Wellness Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2989618,36.7997520
+5401775808,OSM_5401775808,"Vips Health Services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3022058,36.7890943
+5412285972,OSM_5412285972,"Health Facility (OSM #5412285972)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3032962,36.7717793
+5412286155,OSM_5412286155,"Iran Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3008639,36.7793505
+5414008483,OSM_5414008483,"Aga Khan University Hospital Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3009005,36.7877061
+5414200443,OSM_5414200443,"Goodlife Pharmacy, Total Ngong Road",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3001528,36.7885567
+5414200513,OSM_5414200513,"Rosegate Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2952192,36.7979745
+5414200519,OSM_5414200519,"Malibu Pharmacy Ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2947068,36.7971086
+5414280550,OSM_5414280550,"Yaya Chemists Limited",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2929993,36.7879856
+5414335722,OSM_5414335722,"Linkemmed Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2943735,36.7986474
+5444958312,OSM_5444958312,"Flametree Pharmacy Ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2644391,36.8026896
+5475093964,OSM_5475093964,"Taiba",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2757375,36.8308818
+5496079260,OSM_5496079260,"Makadara Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2967241,36.8733714
+5535372936,OSM_5535372936,"Chinese Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2596704,36.8023954
+5540761517,OSM_5540761517,"Kam Pharmacy Ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2650640,36.8042579
+5552269195,OSM_5552269195,"Ram Pharmaceuticals Ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2653138,36.8063753
+5552467940,OSM_5552467940,"Nairobi Outpatient Centre Ltd",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2804367,36.8187332
+5555072714,OSM_5555072714,"Malibu Pharmacy Ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2851367,36.8231542
+5555073806,OSM_5555073806,"The Aga Khan University Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2857730,36.8220131
+5555073945,OSM_5555073945,"Karen Hospital Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2838554,36.8178456
+5555074074,OSM_5555074074,"Mater Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2879739,36.8272955
+5555704220,OSM_5555704220,"Ngaira Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2735567,36.8313235
+5580878322,OSM_5580878322,"Goodlife Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2652235,36.7410973
+5594850571,OSM_5594850571,"Access Afya Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3093421,36.8784574
+5704419900,OSM_5704419900,"medilink medical",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3114010,36.8686981
+5704419905,OSM_5704419905,"King'ori's chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3096983,36.8765717
+5838100588,OSM_5838100588,"MSF (Doctors Without Borders) medical center - Lavander clinic",Clinic,Level 3,"MÃ©decins sans frontiÃ¨res",Private,Operational,Nairobi,-1.2660170,36.8522643
+5865540306,OSM_5865540306,"Goodlife Chemist Kiambu Road",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2294099,36.8402998
+5974660917,OSM_5974660917,"Seropharm E.A",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2772579,36.8164101
+6007565090,OSM_6007565090,"5th Avenue Ngong Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2960739,36.8082268
+6081785209,OSM_6081785209,"Benchmark Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2522784,36.9496534
+6110577686,OSM_6110577686,"Malibu",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2880771,36.8266872
+6173489602,OSM_6173489602,"Aga Khan Hospital Komarock",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2676453,36.9055678
+6207599848,OSM_6207599848,"Clinix Healthcare MFI",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3318863,36.8570218
+6208216873,OSM_6208216873,"Gertrude's Children's Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3301109,36.8892935
+6208216882,OSM_6208216882,"Nairobi Hospital Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3289332,36.8909788
+6224915306,OSM_6224915306,"Goodlife Pharmacy Shell Thome",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2324618,36.8752431
+6225467024,OSM_6225467024,"Dinesh Chandaria Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2645234,36.8114972
+6247215859,OSM_6247215859,"Neema Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2272103,36.8851084
+6249063077,OSM_6249063077,"Kasarani Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2209872,36.9024145
+6249063518,OSM_6249063518,"Shekinah Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2184320,36.9003156
+6249168537,OSM_6249168537,"Kasarani Maternity",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2215987,36.9133873
+6359782986,OSM_6359782986,"Getrudes Children's Hospital Donholm",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2953701,36.8873731
+6786366685,OSM_6786366685,"Chuiâ€™s Residence",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2754440,36.9544656
+6830400012,OSM_6830400012,"Pharma Plus",Pharmacy,Level 2,"Pharma plus",Private,Operational,Nairobi,-1.3083793,36.8225048
+6969796486,OSM_6969796486,"Goodlife",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2606306,36.8013498
+6969796687,OSM_6969796687,"Regatta Medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3080084,36.7820293
+6969796690,OSM_6969796690,"Health Facility (OSM #6969796690)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2643563,36.8110469
+7264022190,OSM_7264022190,"Centre for Tropical and Travel Medicine (CTTM)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2994473,36.7823350
+7501513238,OSM_7501513238,"Jubilee Centre Karen",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3407826,36.7575170
+7569664285,OSM_7569664285,"Aga Khan Clinic Embakasi",Clinic,Level 3,"Aga Khan",Private,Operational,Nairobi,-1.3189242,36.8973899
+7930787271,OSM_7930787271,"Silanga Health",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3100900,36.7819200
+7930787272,OSM_7930787272,"Sprout Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3146300,36.7963750
+7930787273,OSM_7930787273,"Tumaini Medical",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3086922,36.7732159
+7930787274,OSM_7930787274,"Radmed Kibera Ultrasound Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3077600,36.7807500
+7930787275,OSM_7930787275,"Nakhayo clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3116483,36.7881550
+7930787276,OSM_7930787276,"Vipawa Medical clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3113484,36.7851141
+7930787277,OSM_7930787277,"Young Health Programme Kenya United",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3155850,36.7805758
+7930787278,OSM_7930787278,"Senye Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3144733,36.7763167
+7930787279,OSM_7930787279,"Ushirika Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3078951,36.7728581
+7930787280,OSM_7930787280,"Kisembo Health Services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3132583,36.7900117
+7930787281,OSM_7930787281,"Nebtim Medical Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3120617,36.7785517
+7930787283,OSM_7930787283,"Vostrum Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3076217,36.7810267
+7930787284,OSM_7930787284,"Al Khair Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3088167,36.7761853
+7930812986,OSM_7930812986,"Vimacare Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3147614,36.7920263
+7930812987,OSM_7930812987,"Beyond Zero",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3112891,36.7822890
+7930812988,OSM_7930812988,"Health Facility (OSM #7930812988)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3110298,36.7738124
+7930812989,OSM_7930812989,"Chemi Chemi ya Uzima",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3071183,36.7879833
+7930812990,OSM_7930812990,"Tabitha Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3162150,36.7801900
+7930812991,OSM_7930812991,"Shofco Satelit Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3168533,36.7828467
+7930812992,OSM_7930812992,"Makina Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3086250,36.7850167
+7930812993,OSM_7930812993,"Fhok-Family Care Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3117381,36.7935491
+7930812994,OSM_7930812994,"Silanga Dispensary",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3172650,36.7960850
+7930812995,OSM_7930812995,"St Francis Dental Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3118650,36.7981700
+7930812996,OSM_7930812996,"Beyond Zero",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3076117,36.7720924
+7930812997,OSM_7930812997,"Beyond Zero",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3143940,36.7915487
+7930812998,OSM_7930812998,"Mercilin Afya Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3129604,36.7843818
+7930813000,OSM_7930813000,"Beyond Zero Dispensary",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3161517,36.7760183
+7930813001,OSM_7930813001,"Ant-Hill Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3110298,36.7749831
+7930813002,OSM_7930813002,"Kinani Medical and Dental Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3104112,36.7739628
+7930813003,OSM_7930813003,"AMUA Family health Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3150767,36.7966933
+7930813004,OSM_7930813004,"Chemist",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3068833,36.7866850
+7930813005,OSM_7930813005,"Fhok-Family Care Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3121250,36.7939950
+7930813006,OSM_7930813006,"Nakhayo Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3114647,36.7879884
+7930813007,OSM_7930813007,"Kibera Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3060650,36.7881533
+7930813008,OSM_7930813008,"Chemist",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3075250,36.7862267
+7930813009,OSM_7930813009,"CFK Maternity Home",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3124817,36.7793433
+7930813010,OSM_7930813010,"Carolina For Kibera",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3142683,36.7788467
+7930813011,OSM_7930813011,"Beyond Zero",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3175083,36.7765933
+7930813012,OSM_7930813012,"Rosade Pharmacy and Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3110790,36.7753249
+7930813013,OSM_7930813013,"Swop Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3107583,36.7744025
+7930813014,OSM_7930813014,"Frepals Nursing Home",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3115083,36.7929933
+7930813015,OSM_7930813015,"Beyond Zero",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3141550,36.7787117
+7930813016,OSM_7930813016,"Bliss",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3104463,36.7739802
+7930813017,OSM_7930813017,"Senye Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3144967,36.7765700
+7930813018,OSM_7930813018,"St Mary's Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3119669,36.7836063
+7930813019,OSM_7930813019,"Shofco",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3182517,36.7965483
+7952200590,OSM_7952200590,"Mlango Kubwa Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2657867,36.8456917
+7952200591,OSM_7952200591,"Divine Dispensary",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2665301,36.8462956
+7952200592,OSM_7952200592,"Cosmetics Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2661100,36.8520500
+7952200594,OSM_7952200594,"Duka la Dawa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2647600,36.8508817
+7952200595,OSM_7952200595,"Drug Safe Pharmacy",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2660967,36.8452700
+7952200596,OSM_7952200596,"Villa Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2627664,36.8634594
+7952200597,OSM_7952200597,"Beth Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2655969,36.8432683
+7952200599,OSM_7952200599,"Great Medical Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2653661,36.8456467
+7952200600,OSM_7952200600,"Health Facility (OSM #7952200600)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2661817,36.8440467
+7952200601,OSM_7952200601,"The Jordon Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2650783,36.8450277
+7952200602,OSM_7952200602,"Dawahouse Pharmacy",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2584604,36.8620129
+7952200603,OSM_7952200603,"Muradi Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2636633,36.8547133
+7952200604,OSM_7952200604,"Glory Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2657826,36.8455084
+7952200605,OSM_7952200605,"Mathare Edarp",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2656419,36.8568661
+7952200606,OSM_7952200606,"The Great Medical Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2652604,36.8453793
+7952200608,OSM_7952200608,"Prospect Joslim Medicare",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2633850,36.8506383
+7952200609,OSM_7952200609,"Curex Pharmacy",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2657857,36.8460954
+7952200610,OSM_7952200610,"Shofco Mathare Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2636604,36.8578953
+7952200611,OSM_7952200611,"Cosmetics Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2654933,36.8443067
+7952200612,OSM_7952200612,"Nile Medical centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2619349,36.8572947
+7952200613,OSM_7952200613,"Uzima White Health Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2636027,36.8600688
+7952200614,OSM_7952200614,"Gifted Pharmacy",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2660591,36.8453940
+7952200615,OSM_7952200615,"Loving Concern Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2644167,36.8450750
+7952200616,OSM_7952200616,"Pona",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2617935,36.8600195
+7952200617,OSM_7952200617,"Core",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2618772,36.8593327
+7952200618,OSM_7952200618,"Rhodics",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2582500,36.8622912
+7952200619,OSM_7952200619,"The Great Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2653967,36.8455767
+7952200621,OSM_7952200621,"View Point Medical",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2646230,36.8454130
+7952200622,OSM_7952200622,"Kopok Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2586683,36.8620517
+7952200623,OSM_7952200623,"Access Afya Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2656883,36.8524868
+8006201386,OSM_8006201386,"New Dan's Chemistry",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2629111,36.8604587
+8006210385,OSM_8006210385,"By Grace Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2619488,36.8564683
+8006210485,OSM_8006210485,"Undugu medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2617856,36.8577548
+8006237485,OSM_8006237485,"Undugu",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2617597,36.8576734
+8006237585,OSM_8006237585,"Elykim health clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2619110,36.8577722
+8006263285,OSM_8006263285,"The two sisters chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2619708,36.8585987
+8006305785,OSM_8006305785,"Glorious Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2617031,36.8596947
+8006307486,OSM_8006307486,"Promise chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2598686,36.8611369
+8021720087,OSM_8021720087,"Dawa house",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2583877,36.8619418
+8021720088,OSM_8021720088,"Migingo chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2618211,36.8578085
+8021724586,OSM_8021724586,"Kopok chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2584371,36.8624682
+8021724587,OSM_8021724587,"Fast care",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2595634,36.8607189
+8021724588,OSM_8021724588,"Blessed chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2608505,36.8593025
+8021737885,OSM_8021737885,"Rehoboth Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2589436,36.8611469
+8021737886,OSM_8021737886,"Neighborhood clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2587413,36.8613524
+8021738085,OSM_8021738085,"Gods gift",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2605601,36.8599639
+8021829889,OSM_8021829889,"Venus chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2633025,36.8612806
+8021829890,OSM_8021829890,"Lynsha",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2624248,36.8614160
+8021852685,OSM_8021852685,"Vision Health Care",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2631269,36.8616749
+8021852985,OSM_8021852985,"Gracious chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2618647,36.8618308
+8021853085,OSM_8021853085,"Emmanuel chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2617076,36.8620183
+8021853185,OSM_8021853185,"Rosa clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2626509,36.8633383
+8032765485,OSM_8032765485,"Shemile",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2617359,36.8593220
+8032765486,OSM_8032765486,"Likened",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2595449,36.8646150
+8032765487,OSM_8032765487,"Total community Development Health Care",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2589513,36.8642392
+8032765585,OSM_8032765585,"Valley",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2595187,36.8645992
+8047281285,OSM_8047281285,"Alphamed",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2636079,36.8582592
+8047361386,OSM_8047361386,"Alphamed clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2621834,36.8552165
+8047365585,OSM_8047365585,"Aphamed",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2624892,36.8552415
+8047406785,OSM_8047406785,"IMANI CLINIC",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2645368,36.8491745
+8047415785,OSM_8047415785,"Prospect joslin",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2645617,36.8506097
+8047604830,OSM_8047604830,"Fairview Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2880667,36.7483217
+8047604832,OSM_8047604832,"Kenishi Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2861433,36.7454283
+8047604833,OSM_8047604833,"Margjallean Pharmaceuticals",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2861083,36.7453183
+8047604834,OSM_8047604834,"Fourty Six Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2861300,36.7452500
+8047604835,OSM_8047604835,"Riruta Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2866333,36.7412983
+8062878685,OSM_8062878685,"Dispensing chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2638257,36.8582424
+8062878785,OSM_8062878785,"Kwa Alex Medical",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2644528,36.8580321
+8074036733,OSM_8074036733,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2813624,36.7546133
+8074036734,OSM_8074036734,"chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2798527,36.7557606
+8074036735,OSM_8074036735,"Eloc Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2978756,36.7533611
+8074036736,OSM_8074036736,"Wa Ann Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2979349,36.7533360
+8074036737,OSM_8074036737,"L",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2979563,36.7533096
+8074036738,OSM_8074036738,"Keli Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2903816,36.7488007
+8074036739,OSM_8074036739,"Jemamed Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2854983,36.7590750
+8074036740,OSM_8074036740,"Satelite Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2903824,36.7398859
+8074036741,OSM_8074036741,"Galena",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2897517,36.7501517
+8074036742,OSM_8074036742,"Fairview",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2899461,36.7468127
+8074036743,OSM_8074036743,"Kawangware Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2900006,36.7468489
+8074036744,OSM_8074036744,"Late Night Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2886633,36.7514083
+8074036745,OSM_8074036745,"Galex Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2886083,36.7508117
+8074036746,OSM_8074036746,"Melmarvic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2899569,36.7468184
+8074036747,OSM_8074036747,"Njimia",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2882699,36.7494056
+8074036748,OSM_8074036748,"Vinly",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2889055,36.7530626
+8074036749,OSM_8074036749,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2879149,36.7265531
+8074036750,OSM_8074036750,"St Ann's",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2798760,36.7561716
+8074036751,OSM_8074036751,"Grahama's Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2901882,36.7496929
+8074036752,OSM_8074036752,"Vila",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2884928,36.7445522
+8074036753,OSM_8074036753,"Joy Enterprise",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2769231,36.7586322
+8074036754,OSM_8074036754,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2850167,36.7544900
+8074036755,OSM_8074036755,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2900231,36.7286863
+8074036756,OSM_8074036756,"Philmed Pharmacy Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2859417,36.7455933
+8074036757,OSM_8074036757,"Titan Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2861017,36.7456600
+8074036758,OSM_8074036758,"Salama Pharmaceutical ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2861117,36.7457367
+8074036759,OSM_8074036759,"Juben",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2900631,36.7289113
+8074036760,OSM_8074036760,"Njimia Pharmaceutical ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2867433,36.7471050
+8074036761,OSM_8074036761,"Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2861197,36.7455172
+8074036762,OSM_8074036762,"Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2860219,36.7453599
+8074036763,OSM_8074036763,"Dispensing",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2862080,36.7455573
+8074036764,OSM_8074036764,"Philimed",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2860886,36.7455340
+8074036765,OSM_8074036765,"Salama",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2862225,36.7458051
+8074036766,OSM_8074036766,"Ethmill",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2900400,36.7505867
+8074036767,OSM_8074036767,"Simama Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2873133,36.7481183
+8074036768,OSM_8074036768,"Abijo",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2894842,36.7416223
+8074036769,OSM_8074036769,"Umoja Med",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2764326,36.7552448
+8074036770,OSM_8074036770,"Ponyesha Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2772401,36.7535615
+8074036771,OSM_8074036771,"Sanmed Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2886837,36.7531625
+8074036772,OSM_8074036772,"Kaimosi",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2882033,36.7528257
+8074036773,OSM_8074036773,"Bare Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2813256,36.7427220
+8074036774,OSM_8074036774,"Samaritan Medical",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2889317,36.7453000
+8074036775,OSM_8074036775,"Steowa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2780324,36.7508051
+8074036776,OSM_8074036776,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2885491,36.7513360
+8074036777,OSM_8074036777,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2877095,36.7493544
+8074036778,OSM_8074036778,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2874717,36.7486103
+8074036779,OSM_8074036779,"Late Night Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2875983,36.7491717
+8074036780,OSM_8074036780,"Ponachem",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2782753,36.7508051
+8074036781,OSM_8074036781,"Chemist and Beauty Shop",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2875850,36.7485983
+8074036782,OSM_8074036782,"Agrovet",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2899683,36.7511150
+8074036783,OSM_8074036783,"Alkem Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2910267,36.7520367
+8074036784,OSM_8074036784,"Duka LA Dawa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2914480,36.7332906
+8074036785,OSM_8074036785,"Joag Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2897733,36.7506650
+8074036786,OSM_8074036786,"Sky Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2903433,36.7514483
+8074036787,OSM_8074036787,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2822428,36.7508984
+8074036788,OSM_8074036788,"Bestamed Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2928839,36.7346380
+8074036789,OSM_8074036789,"The Sama Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2887683,36.7500450
+8074036790,OSM_8074036790,"Duka LA Dawa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2852417,36.7533317
+8074036791,OSM_8074036791,"Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2872266,36.7534197
+8074036792,OSM_8074036792,"Keystone Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2860267,36.7564717
+8074036793,OSM_8074036793,"Assurelab",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2867517,36.7414083
+8074036794,OSM_8074036794,"Janjay Chemists",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2842233,36.7423383
+8074036795,OSM_8074036795,"Mumblink",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2861500,36.7408383
+8074036796,OSM_8074036796,"Mac Olben",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2758153,36.7623081
+8074036797,OSM_8074036797,"Jomu Pharmaceutical",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2828684,36.7431827
+8074036798,OSM_8074036798,"Pylot",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2839283,36.7583167
+8074036799,OSM_8074036799,"Health Facility (OSM #8074036799)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2825143,36.7456122
+8074036800,OSM_8074036800,"Larmar",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2821548,36.7533003
+8074036801,OSM_8074036801,"Ninalink Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2912567,36.7483767
+8074036802,OSM_8074036802,"Galex",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2917107,36.7484065
+8074036803,OSM_8074036803,"Gg",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2917043,36.7484107
+8074036804,OSM_8074036804,"Zapla",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2916557,36.7483932
+8074036805,OSM_8074036805,"Naftali Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2877983,36.7493567
+8074036806,OSM_8074036806,"Late Night",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2876718,36.7265531
+8100967917,OSM_8100967917,"Trustmed",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2669670,36.8437328
+8100967918,OSM_8100967918,"Loving Concerned medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2643602,36.8453536
+8100967919,OSM_8100967919,"Pangani family Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2653237,36.8442502
+8100968017,OSM_8100968017,"Glory Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2658106,36.8454841
+8100968018,OSM_8100968018,"Safeways pharmaceutical limited",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2654356,36.8455658
+8100968117,OSM_8100968117,"Great",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2654936,36.8455178
+8100968217,OSM_8100968217,"View point medical centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2647462,36.8453419
+8100968218,OSM_8100968218,"Afyw Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2641110,36.8451917
+8100968317,OSM_8100968317,"Gifted",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2660262,36.8454139
+8100968417,OSM_8100968417,"The great",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2654664,36.8454995
+8168754213,OSM_8168754213,"Bliss Medical Center Pipeline",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3179120,36.8965208
+8210508750,OSM_8210508750,"Livewell Pharmacy & Cosmetics",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2105604,36.8860510
+8371978935,OSM_8371978935,"RFH HEALTHCARE",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2745317,37.0048291
+8415635818,OSM_8415635818,"AAR Donholm",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3013410,36.8861880
+8415708517,OSM_8415708517,"AAR Healthcare Buruburu",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2838040,36.8799799
+8415733817,OSM_8415733817,"AAR Lavington OPC",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2896975,36.7714102
+8415744317,OSM_8415744317,"Alter Care Limited",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2889834,36.7258752
+8415744318,OSM_8415744318,"ABRA Health Services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2919586,36.8196959
+8415749517,OSM_8415749517,"Canaan Health Providers (Nairobi)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2849980,36.8217740
+8415761717,OSM_8415761717,"Access Afya Baba dogo",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2443291,36.8865237
+8415763017,OSM_8415763017,"Care Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2811463,36.8441006
+8415773317,OSM_8415773317,"Cascade of Hope Health Care",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2254813,36.8980999
+8415778917,OSM_8415778917,"Conerstone Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2482000,36.9167060
+8415790118,OSM_8415790118,"Access Afya Kwa Reuben Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3133296,36.8694997
+8415790417,OSM_8415790417,"Connections Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3202578,36.9001918
+8415794217,OSM_8415794217,"Anka Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2775578,36.8481309
+8415795618,OSM_8415795618,"APTC Health Centre",Clinic,Level 3,"Kenya Army",Private,Operational,Nairobi,-1.2918430,36.9567030
+8415804517,OSM_8415804517,"Access Afya Kiambiu",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2822758,36.8634101
+8415805017,OSM_8415805017,"Cefi Nursing Home",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2653009,36.8819108
+8415810119,OSM_8415810119,"Africare Limited Embakasi Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3298140,36.8872480
+8415817017,OSM_8415817017,"Chasmile Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2773942,36.9136036
+8415819917,OSM_8415819917,"Amref Medical Centre (Wilson Airport)",Clinic,Level 3,"AMREF",Private,Operational,Nairobi,-1.3177633,36.8129290
+8415821617,OSM_8415821617,"Adopta Life Foundation (Ruai)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2709062,36.9951041
+8415822217,OSM_8415822217,"CIDI Mukuru Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3150000,36.8887060
+8415829118,OSM_8415829118,"City Health Limited",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2832573,36.8228754
+8415830822,OSM_8415830822,"City Jacaranda SDA Church Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2681735,36.9884113
+8415831021,OSM_8415831021,"Avenue Health Care Embakasi",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3281535,36.8895632
+8415831218,OSM_8415831218,"Arawelo Medical Centre Limited",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3205639,36.8236578
+8415831221,OSM_8415831221,"Aga Khan University Hospital - (Greenspan Mall Clinic)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2888160,36.9011334
+8415855620,OSM_8415855620,"City Point Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2788853,36.8485940
+8415857717,OSM_8415857717,"Arrow Web Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2741960,36.9153490
+8415862317,OSM_8415862317,"Africare Ltd (South C)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3522160,36.8927797
+8415873217,OSM_8415873217,"Afrismart Group of Hospitals LTD",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3183412,36.8937074
+8415883946,OSM_8415883946,"Doctors Park",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2613695,36.8218485
+8415884021,OSM_8415884021,"Bahati Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2890282,36.8606809
+8415888817,OSM_8415888817,"AVENUE HEALTHCARE GREENSPAN",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2888185,36.9011917
+8415888818,OSM_8415888818,"Health Facility (OSM #8415888818)",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2616383,36.9757304
+8415948117,OSM_8415948117,"Agakhan University Hospital Valley Arcade Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2614711,36.8205792
+8415951817,OSM_8415951817,"AIC Kijabe Hospital Nairobi Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2667439,36.7964808
+8415959119,OSM_8415959119,"Bliss GVS Embakasi Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3096460,36.9098800
+8415960617,OSM_8415960617,"Bahati Tassia Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3060895,36.9004979
+8415969217,OSM_8415969217,"Dandora Health Services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2456646,36.9076601
+8415973117,OSM_8415973117,"Balozi Hospital LTD",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3202275,36.8457371
+8415980317,OSM_8415980317,"Bliss GVS Health Care (college House)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2813167,36.8154496
+8415981917,OSM_8415981917,"Dandora I Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2482996,36.9003874
+8415996417,OSM_8415996417,"Blissgvs Health Care(Pipeline)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3178339,36.8943307
+8415996418,OSM_8415996418,"Dr Lang'o Medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2892786,36.7847371
+8416005417,OSM_8416005417,"Dornaled Community Health Centre and Maternity",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2255001,36.8980141
+8416012017,OSM_8416012017,"Brightstar Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2844680,36.8843710
+8416025917,OSM_8416025917,"Bristol Park Hospital Fedha",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3130358,36.8923199
+8416046117,OSM_8416046117,"Bristol Park Hospital Utawala",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2794475,36.9650727
+8416046118,OSM_8416046118,"Brother Andre Medial Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2438767,36.9049028
+8416157317,OSM_8416157317,"Dr S N Karau & Associates Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2588600,36.8117740
+8416166017,OSM_8416166017,"Dr.Joy P.Mpaata",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2954470,36.8029380
+8416211717,OSM_8416211717,"Dr.Stephen Kamore Wanjohi",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2598822,36.8156978
+8416284519,OSM_8416284519,"Berton Health Specialists Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2194841,36.8898472
+8416309117,OSM_8416309117,"Best Health Care Community Services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2760272,36.9869579
+8416351018,OSM_8416351018,"Beta Care Setlite clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2775392,36.8273072
+8416367717,OSM_8416367717,"Blessed Medicare Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3134433,36.8860328
+8416368117,OSM_8416368117,"Blessed to Bless Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2918353,36.8196235
+8416952117,OSM_8416952117,"Drive-In Nursing Hospital (Ruaraka)",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2269667,36.8848656
+8416952118,OSM_8416952118,"Eastend Doctors",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2727366,36.8435184
+8418086917,OSM_8418086917,"Edarp Donholm Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3019030,36.8861210
+8418116217,OSM_8418116217,"Embakasi Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3106081,36.9139601
+8418119917,OSM_8418119917,"Equata Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2810782,36.9118886
+8418135317,OSM_8418135317,"Equity Afia Biashara Street",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2821334,36.8178684
+8418147817,OSM_8418147817,"Equity Afia Githurai",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2038947,36.9158221
+8420896917,OSM_8420896917,"Getrude Embakasi Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3300926,36.8871144
+8420902617,OSM_8420902617,"Getrude Donholm Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2954959,36.8856056
+8420920618,OSM_8420920618,"Gertrudes Children's Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2981490,36.7619147
+8420929917,OSM_8420929917,"Genessaret Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2921061,36.8197254
+8420940517,OSM_8420940517,"Gateway Health Care Thome",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2184975,36.8870929
+8420950617,OSM_8420950617,"Garrison Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3238004,36.8975698
+8421000017,OSM_8421000017,"Frontline Medical Consultants limited",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2957060,36.8059750
+8428463817,OSM_8428463817,"Equity Afia Kawangware",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2886178,36.7434232
+8428495317,OSM_8428495317,"Equity Afia Utawala Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2848126,36.9563751
+8428500817,OSM_8428500817,"Euraka Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2922187,36.8198273
+8429432017,OSM_8429432017,"Kayole Outpatient Clinics",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2675030,36.9136670
+8429442017,OSM_8429442017,"Hakika Medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2534265,36.8793330
+8429468217,OSM_8429468217,"Harley Street Fertility Centre Kenya Ltd.",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2613093,36.8374752
+8429469917,OSM_8429469917,"Kibagare Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2499936,36.7836348
+8429495818,OSM_8429495818,"Hayat Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2741825,36.8420883
+8429502417,OSM_8429502417,"Hashi Medical Centre Limited",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2638579,36.8066001
+8429502418,OSM_8429502418,"Kilele Medical Specialist Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2943093,36.8738208
+8429512817,OSM_8429512817,"Havans Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2920659,36.8197522
+8429524417,OSM_8429524417,"Kilimani Childrens Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2839561,36.7897380
+8429527817,OSM_8429527817,"Havilah Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3178784,36.8943295
+8429549117,OSM_8429549117,"Kizazi Clinique",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2240159,36.9148539
+8429553517,OSM_8429553517,"Koki Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2678642,36.9200854
+8429555717,OSM_8429555717,"Health Basics International (Ruaraka)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2322018,36.8815921
+8429563117,OSM_8429563117,"Health Gate Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2796498,36.8461108
+8429579417,OSM_8429579417,"Helpers Health Services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2066310,36.9117328
+8429583017,OSM_8429583017,"Imara Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2931870,36.9131880
+8429583018,OSM_8429583018,"International Health Care Limited",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2847801,36.8315803
+8429583019,OSM_8429583019,"Lengo Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3118073,36.8446564
+8429588417,OSM_8429588417,"Kware Dispensary",Clinic,Level 3,"Private/Public",Public,Operational,Nairobi,-1.2978743,36.9013864
+8429605917,OSM_8429605917,"Lagos Road Dispensary",Clinic,Level 3,"Private/Public",Public,Operational,Nairobi,-1.2820159,36.8217337
+8429616117,OSM_8429616117,"Kasarani Claycity Medical Centre (Kasarani)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2183597,36.9031931
+8429627617,OSM_8429627617,"Isaan Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3161460,36.9152788
+8432644717,OSM_8432644717,"Exselle Health Care",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2921463,36.8198005
+8432644718,OSM_8432644718,"Family Access Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2145421,36.8957404
+8432649917,OSM_8432649917,"Fairview Nursing Home Kware",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3146240,36.8725280
+8432669317,OSM_8432669317,"Kenya Pipeline Staff Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3112493,36.8724831
+8435477417,OSM_8435477417,"Jahmii Kipawa Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2525485,36.8779622
+8476481218,OSM_8476481218,"Jamii Wellness Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2666190,36.8834530
+8476489518,OSM_8476489518,"Jekam Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2249681,36.9211929
+8476579218,OSM_8476579218,"Jemindas Nursing Home Limited",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2675001,36.8098280
+8476649017,OSM_8476649017,"Jesse Kay Children's Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2159187,36.8862672
+8476754617,OSM_8476754617,"JKIA Health Centre",Clinic,Level 3,"Private/Public",Public,Operational,Nairobi,-1.3135293,36.8829093
+8734937362,OSM_8734937362,"Mwananchi Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3025544,36.7430803
+8778559117,OSM_8778559117,"Mukuru Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3251369,36.8878585
+8811903317,OSM_8811903317,"Njiru Health Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2494578,36.9338202
+8891844998,OSM_8891844998,"Gonga Njaa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2468189,36.8914208
+8891844999,OSM_8891844999,"Candy Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2511546,36.8917124
+8891845000,OSM_8891845000,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2546100,36.8873000
+8891845001,OSM_8891845001,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2558100,36.8865000
+8891845002,OSM_8891845002,"Kwa Mary",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2560800,36.8862000
+8891845003,OSM_8891845003,"Baraka Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2491000,36.8912000
+8891905579,OSM_8891905579,"Gonga Njaa",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2468189,36.8914208
+8891905580,OSM_8891905580,"Mwangaza Ulio na Tumaini Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2510700,36.8919000
+8891905581,OSM_8891905581,"Korogocho Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2517000,36.8892000
+8891905582,OSM_8891905582,"Makwak (Maendneleo Afya Kwa Wote Korogocho)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2519317,36.8891101
+8891905583,OSM_8891905583,"Amana Medical Clinic and Family",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2565000,36.8861000
+8891905584,OSM_8891905584,"Vission Medical clinic and maternity",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2502300,36.8898000
+8891905585,OSM_8891905585,"Provide International Korogocho",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2502600,36.8885000
+8891929835,OSM_8891929835,"Provide International Korogocho",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2502600,36.8885000
+8891939521,OSM_8891939521,"Mwangaza Ulio na Tumaini Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2510730,36.8919000
+8891939522,OSM_8891939522,"Vission Medical clinic and maternity",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2502300,36.8898000
+8891997094,OSM_8891997094,"Comboni Sister Missionary Health Program / G031055",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2478900,36.8908000
+8894592635,OSM_8894592635,"Kingstone Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3124600,36.8643000
+8894592636,OSM_8894592636,"Modan Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3121800,36.8672000
+8894592637,OSM_8894592637,"St. Joans Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3107300,36.8706000
+8894592638,OSM_8894592638,"Melihep Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3106900,36.8704000
+8894592639,OSM_8894592639,"Lunga Lunga Medical Center",Health Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3106225,36.8722915
+8894592640,OSM_8894592640,"Flodo Medical and curative services",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3100900,36.8746000
+8894592641,OSM_8894592641,"Access Afya",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3093200,36.8784000
+8894592642,OSM_8894592642,"Msamaria Mwema clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3093000,36.8782000
+8894592643,OSM_8894592643,"Olive Link Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3089500,36.8813000
+8894592645,OSM_8894592645,"Huduma Bora Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3053400,36.8843000
+8894604377,OSM_8894604377,"JN Chemist and Cosmetic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3109800,36.8640000
+8894604378,OSM_8894604378,"Duka la dawa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3110000,36.8640000
+8894604379,OSM_8894604379,"Kingstone Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3124600,36.8643000
+8894604380,OSM_8894604380,"Nyamo Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3120600,36.8635000
+8894604381,OSM_8894604381,"Family Medical Care Center",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3119000,36.8644000
+8894604382,OSM_8894604382,"Rehema chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3138967,36.8629926
+8894604383,OSM_8894604383,"Mercy Chem",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3111800,36.8645000
+8894604384,OSM_8894604384,"Modan Medical Center",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3121800,36.8672000
+8894604385,OSM_8894604385,"St. Paul's Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3114200,36.8668000
+8894604386,OSM_8894604386,"St. Joans Medical Center",Pharmacy,Level 2,"private/individual",Private,Operational,Nairobi,-1.3107297,36.8706039
+8894604387,OSM_8894604387,"Melihep Medical Clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3106900,36.8704000
+8894604388,OSM_8894604388,"Paradise Medical Center",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3107400,36.8707000
+8894604390,OSM_8894604390,"Duka la dawa",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3097700,36.8763000
+8894604391,OSM_8894604391,"Flodo Medical and curative services",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3100900,36.8746000
+8894604392,OSM_8894604392,"Stepps Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3113100,36.8755000
+8894604393,OSM_8894604393,"Shakina Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3103700,36.8742000
+8894604394,OSM_8894604394,"Access Afya",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3093200,36.8784000
+8894604395,OSM_8894604395,"Msamaria Mwema clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3093000,36.8782000
+8894604396,OSM_8894604396,"Tonris Shop",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3100900,36.8780000
+8894604397,OSM_8894604397,"Olive Link Medical Center",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3089500,36.8813000
+8894604399,OSM_8894604399,"Upendo Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3077100,36.8824000
+8894604400,OSM_8894604400,"Huduma Bora Medical Centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3053400,36.8843000
+8894604401,OSM_8894604401,"Sunset Chemist/Cosmetic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3033600,36.8859000
+8895124060,OSM_8895124060,"Melihep Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3106900,36.8704000
+8895124061,OSM_8895124061,"Olive Link Medical Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3089500,36.8813000
+8895142480,OSM_8895142480,"Olive Link Medical Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3089500,36.8813000
+8962922294,OSM_8962922294,"Selina Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2526389,36.8842724
+8962922295,OSM_8962922295,"Siwandhe Pharmacy",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2447046,36.8935644
+8962922296,OSM_8962922296,"Jahmii Kipawa",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2521012,36.8819405
+8962922298,OSM_8962922298,"Kariobangi Health Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2547051,36.8806791
+8962922299,OSM_8962922299,"Sex Workers Organisation Program (SWOP) Kariobangi",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2563656,36.8825399
+8962922300,OSM_8962922300,"Catholic Dispensary Kariobangi",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2577118,36.8799541
+8962983524,OSM_8962983524,"Mkunga Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2576963,36.8909245
+8962983525,OSM_8962983525,"Ruaraka Uhai Neema Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2272208,36.8851570
+8963037626,OSM_8963037626,"Blossom chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2530123,36.8848266
+8963037627,OSM_8963037627,"Jerusalem in Dandora",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2598489,36.8904210
+8963037628,OSM_8963037628,"Bluerace Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2526739,36.8858407
+8963037629,OSM_8963037629,"Siwandhe Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2447046,36.8935644
+8963780228,OSM_8963780228,"Coptic Hospital Lunga Lunga",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3083805,36.8631800
+8974004103,OSM_8974004103,"Lunga Lunga Health Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3105810,36.8624078
+8974004104,OSM_8974004104,"Coptic Hospital Lunga Lunga",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3083805,36.8631800
+8974070887,OSM_8974070887,"Lunga Lunga Health Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3105810,36.8624078
+9002869889,OSM_9002869889,"The Nairobi South Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3136574,36.8283841
+9136812246,OSM_9136812246,"Mediheal Group of Hospitals - Parklands",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2621628,36.8225785
+9418619696,OSM_9418619696,"Haltons Pharmacy Ngumba Estate",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2335869,36.8845179
+9800970628,OSM_9800970628,"Real Hospital Utawala",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2866612,36.9728427
+9800982566,OSM_9800982566,"Gibbos Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2901558,36.9727891
+9800982577,OSM_9800982577,"Mediheal Utawala",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2889759,36.9714930
+10117889578,OSM_10117889578,"Krishna Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2600785,36.8173863
+10135416440,OSM_10135416440,"Pharmaplus",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3291924,36.6832344
+10207262846,OSM_10207262846,"Langata Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3276957,36.7891893
+10274426409,OSM_10274426409,"Level 3",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2996266,36.9244360
+10544065251,OSM_10544065251,"Crayson Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3295459,36.9251389
+10544066337,OSM_10544066337,"Health Facility (OSM #10544066337)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3314383,36.9239129
+10566930309,OSM_10566930309,"Nairobi Radiology Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2954532,36.7979924
+10600729496,OSM_10600729496,"Health Facility (OSM #10600729496)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2210020,36.9133799
+10600729497,OSM_10600729497,"Health Facility (OSM #10600729497)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2212916,36.9132270
+10600747318,OSM_10600747318,"Radiant Group of Hospitals Sportsview",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2225117,36.9125430
+10673606284,OSM_10673606284,"KNH Doctors' Plaza",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3018962,36.8074766
+10780885568,OSM_10780885568,"makina clinic centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3087713,36.7852154
+10780885572,OSM_10780885572,"hope clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3148173,36.7763348
+10780885574,OSM_10780885574,"vipawa medical clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3114479,36.7851392
+10780885575,OSM_10780885575,"mwangaza clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3130387,36.7846389
+10780885576,OSM_10780885576,"st. Beeja clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3134302,36.7854302
+10780885577,OSM_10780885577,"jadunda clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3114218,36.7828935
+10780885578,OSM_10780885578,"Rahisi clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3097995,36.7861732
+10780885580,OSM_10780885580,"merciline clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3132788,36.7842486
+10780885594,OSM_10780885594,"beyond zero hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3144186,36.7915192
+10780885601,OSM_10780885601,"outreach",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3115091,36.7927081
+10780953105,OSM_10780953105,"nms hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3178294,36.7994565
+10780953112,OSM_10780953112,"silanga healthcare centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3102354,36.7819015
+10780953113,OSM_10780953113,"community clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3157658,36.7859425
+10780953114,OSM_10780953114,"mater hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2880488,36.8272924
+10780953118,OSM_10780953118,"shofco",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3096775,36.7864907
+10780953132,OSM_10780953132,"Nairobi hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2963897,36.8037051
+10780953136,OSM_10780953136,"Euraka clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2923138,36.8198386
+10786945693,OSM_10786945693,"shofco hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3097371,36.7864801
+10786945694,OSM_10786945694,"rahisi clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3098578,36.7861797
+10786945697,OSM_10786945697,"mareba clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3066507,36.7834948
+10787187380,OSM_10787187380,"kisembo clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3133218,36.7899871
+10789830943,OSM_10789830943,"Christ the king clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3105088,36.7947869
+10789830944,OSM_10789830944,"marie stope clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3080540,36.7892044
+10789830946,OSM_10789830946,"Amanda chemistry",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3071235,36.7870801
+10792571665,OSM_10792571665,"vimaclinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3148687,36.7920298
+10797199726,OSM_10797199726,"PharmaPlus",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2795452,36.7691925
+10803647692,OSM_10803647692,"Trichem",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2908467,36.7703653
+10803677610,OSM_10803677610,"Goodlife",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2907512,36.7703680
+10847142109,OSM_10847142109,"Kasarani",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2215622,36.9133541
+10997396405,OSM_10997396405,"Utawala Health Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2890248,36.9743757
+10997894263,OSM_10997894263,"Huduma Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2277845,36.9186669
+11001380325,OSM_11001380325,"Ironwood Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2289806,36.9276219
+11001534043,OSM_11001534043,"Senna Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2226182,36.9120865
+11005644106,OSM_11005644106,"Dental Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2884377,36.9723318
+11005644205,OSM_11005644205,"Pioneer Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2882406,36.9731764
+11007767617,OSM_11007767617,"Pema hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2796749,36.9688728
+11016126575,OSM_11016126575,"Dr. Martin Kimemia",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2983494,36.8085546
+11152968842,OSM_11152968842,"Emmanuel Community Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2487910,36.9489339
+11183035537,OSM_11183035537,"Mama Margaret Uhuru Hosp[ital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2512285,36.8861081
+11399675222,OSM_11399675222,"Vital Rey Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2633057,36.8015213
+11414546929,OSM_11414546929,"pharmaplus",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2628601,36.8025000
+11423771986,OSM_11423771986,"Digestive Health & Endoscopy Clinic",Clinic,Level 3,"Dr. Kairu",Private,Operational,Nairobi,-1.3005712,36.7820366
+11684804711,OSM_11684804711,"State House Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2784487,36.8050340
+11802137829,OSM_11802137829,"Mlango kubwa",Clinic,Level 3,"private",Private,Operational,Nairobi,-1.2682160,36.8438476
+11802137830,OSM_11802137830,"Pangani family Hospital",Clinic,Level 3,"private",Private,Operational,Nairobi,-1.2612977,36.8619073
+11802137831,OSM_11802137831,"Edarp",Hospital,Level 4,"church",Private,Operational,Nairobi,-1.2654483,36.8556817
+11802137832,OSM_11802137832,"Glory Hospital",Clinic,Level 3,"private",Private,Operational,Nairobi,-1.2655860,36.8456437
+11802137833,OSM_11802137833,"Krisvini Medical Clinic",Clinic,Level 3,"private",Private,Operational,Nairobi,-1.2644232,36.8507933
+11802137834,OSM_11802137834,"Mama wairimu",Clinic,Level 3,"private",Private,Operational,Nairobi,-1.2655818,36.8502133
+11802137835,OSM_11802137835,"Uzima White",Clinic,Level 3,"private",Private,Operational,Nairobi,-1.2614550,36.8619673
+11960010232,OSM_11960010232,"Medverse Community Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2805878,36.9584378
+11960010236,OSM_11960010236,"Cantons Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2815901,36.9591878
+12075947842,OSM_12075947842,"Mp Shah",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2648200,36.8112560
+12117204297,OSM_12117204297,"Health Facility (OSM #12117204297)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3133257,36.9151323
+12117230402,OSM_12117230402,"Health Facility (OSM #12117230402)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3116585,36.9136081
+12121997043,OSM_12121997043,"Star General Clinic Hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2397513,36.8987525
+12142202587,OSM_12142202587,"Karen Health Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3209008,36.7058936
+12157721102,OSM_12157721102,"Pharmaplus",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2817647,36.8168254
+12162052302,OSM_12162052302,"GoodLife Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2854169,36.8190672
+12162382404,OSM_12162382404,"Kimton pharmacy Ltd",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2860563,36.8266643
+12237726807,OSM_12237726807,"family clinic",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3118997,36.8643973
+12237726808,OSM_12237726808,"mama kevin herbal clinic",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3124590,36.8641513
+12237726809,OSM_12237726809,"airtel chemist",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3119773,36.8636869
+12237726810,OSM_12237726810,"the shepherds medical center",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3120977,36.8635074
+12237726811,OSM_12237726811,"pona medical clinic",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3114287,36.8673891
+12237726812,OSM_12237726812,"afya ya jamii med clinic",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3048002,36.8851831
+12237726813,OSM_12237726813,"access afya medical",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3093338,36.8784577
+12237726814,OSM_12237726814,"riders medical center",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3098667,36.8757583
+12237726815,OSM_12237726815,"st. andrews medical cllinic.",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3104135,36.8735577
+12237726816,OSM_12237726816,"medilink centre",Clinic,Level 3,"private/individual",Private,Operational,Nairobi,-1.3117193,36.8708023
+12238169032,OSM_12238169032,"shakina chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3103847,36.8741978
+12238169033,OSM_12238169033,"kwa grace chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3125131,36.8642061
+12238169034,OSM_12238169034,"goodwill clinic",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3113529,36.8677227
+12238169035,OSM_12238169035,"shiru chemist and cosmetics",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3113347,36.8680018
+12238169036,OSM_12238169036,"garrisa ndogo chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3081466,36.8829199
+12238169037,OSM_12238169037,"hope community health centre",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3048909,36.8851138
+12238169038,OSM_12238169038,"spencer chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3098051,36.8766113
+12238169039,OSM_12238169039,"tushauriane chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3091369,36.8798041
+12243233630,OSM_12243233630,"Mickey",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2510119,36.8883891
+12243233631,OSM_12243233631,"Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2512752,36.8902045
+12243233632,OSM_12243233632,"MK Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2511011,36.8909499
+12243686392,OSM_12243686392,"quintons pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2581125,36.8185972
+12243698511,OSM_12243698511,"Goodlife",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2591445,36.8262793
+12244073036,OSM_12244073036,"pentacare hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3106140,36.8734790
+12244073037,OSM_12244073037,"bripa hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3107693,36.8720542
+12244101295,OSM_12244101295,"Comboni Health program",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2479038,36.8906956
+12244101296,OSM_12244101296,"Amani Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2563049,36.8860482
+12244101297,OSM_12244101297,"Al Tawoon Wellness centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2517428,36.8909883
+12244131028,OSM_12244131028,"Pentacare hospital",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3106140,36.8734790
+12244131029,OSM_12244131029,"Bripa hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3107693,36.8720542
+12476036170,OSM_12476036170,"Lucin Medical Center",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2208382,36.9134989
+12565389539,OSM_12565389539,"Sareto Dental Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3142072,36.8958419
+12567697902,OSM_12567697902,"Ability Therapy Place",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3036338,36.8010453
+12886281781,OSM_12886281781,"Meridian Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3080375,36.8240723
+12886532071,OSM_12886532071,"Clara Rosa",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2800615,36.9478890
+12886532091,OSM_12886532091,"Near Semularphamarcy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3105622,36.8999765
+12886546551,OSM_12886546551,"Scion Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3258634,36.8867039
+13071828602,OSM_13071828602,"BELLEZZA SKIN AESTHETICS",Hospital,Level 4,"Wellness Clinic",Private,Operational,Nairobi,-1.2667754,36.7989299
+13304984616,OSM_13304984616,"Unicorn Dental Clinic - Utawala Dental",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2843691,36.9571050
+13305033890,OSM_13305033890,"Unicorn Dental Clinic - Lang'ata Dental",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3222254,36.7994646
+13460735843,OSM_13460735843,"Nyamage Clinic And Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2929812,36.7203360
+13460756709,OSM_13460756709,"SunnyBrook Healcare Center",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2846908,36.7434159
+13460759531,OSM_13460759531,"Fremo Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2894685,36.7228265
+13460793546,OSM_13460793546,"St. Oswald Medical Center",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2904101,36.7299181
+13460812447,OSM_13460812447,"Penda Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2853474,36.7443098
+13460812448,OSM_13460812448,"Salama Chemest - Phamaceuticals",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2856880,36.7448693
+13460824576,OSM_13460824576,"Afyahub Medical Center",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2792720,36.7127381
+13460884290,OSM_13460884290,"Njau ChildrenÂ´s Clinic",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2803020,36.7185248
+13460884293,OSM_13460884293,"Bemis Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2817557,36.7221269
+13952691701,OSM_13952691701,"Pharmaplus",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2925595,36.7857564
+13992683721,OSM_13992683721,"Health Facility (OSM #13992683721)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3291152,36.6877972
+14004366486,OSM_14004366486,"Malrich Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2294371,36.7606508
+14026893857,OSM_14026893857,"Garnet Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2278007,36.8055693
+14026893860,OSM_14026893860,"Goodlife Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2299478,36.8044321
+14058915763,OSM_14058915763,"Goodlife Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2378061,36.8104142
+14133696991,OSM_14133696991,"Goodlife pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2855612,36.8245802
+14148865674,OSM_14148865674,"Malibu pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2872579,36.8243753
+14175197872,OSM_14175197872,"The Chemist",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2834530,36.8182513
+14177478223,OSM_14177478223,"Penda Medical Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2843701,36.8240556
+25473029,OSM_25473029,"Aga Khan University Hospital",Hospital,Level 4,"Aga Khan Health Services",Private,Operational,Nairobi,-1.2617074,36.8238501
+26952844,OSM_26952844,"Block F",Hospital,Level 4,"Government",Private,Operational,Nairobi,-1.2323885,36.8141616
+48161171,OSM_48161171,"Tabitha Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.3161319,36.7801097
+48161232,OSM_48161232,"Christ the King Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3104733,36.7947724
+48161236,OSM_48161236,"Amref-Kibera Health Centre",Hospital,Level 4,"ngo_international",Private,Operational,Nairobi,-1.3112414,36.7956023
+48204373,OSM_48204373,"Prestige Medical Services",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3108311,36.7832279
+48310439,OSM_48310439,"MSF Belgium HIV Clinic",Hospital,Level 4,"MÃ©decins sans frontiÃ¨res",Private,Operational,Nairobi,-1.3141208,36.7839942
+94598339,OSM_94598339,"Karen Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3359987,36.7261096
+106088780,OSM_106088780,"MP Shah Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2635271,36.8121089
+125335535,OSM_125335535,"Pentapharm",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2954581,36.8078456
+125335540,OSM_125335540,"Le Grande Speciality",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2955466,36.8079690
+129003671,OSM_129003671,"Park Road Nursing Home",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2732690,36.8321573
+138227891,OSM_138227891,"Nairobi Hospital",Hospital,Level 4,"Kenya Hospital Association",Private,Operational,Nairobi,-1.2964484,36.8043608
+144059570,OSM_144059570,"Doctors Plaza",Medical Centre,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2958981,36.8034163
+164582610,OSM_164582610,"Mama Lucy Kibaki Memorial Hospital",Hospital,Level 4,"Nairobi city county government",Public,Operational,Nairobi,-1.2744299,36.8992342
+222900210,OSM_222900210,"medecins sans frontieres",Clinic,Level 3,"MÃ©decins sans frontiÃ¨res",Private,Operational,Nairobi,-1.2661020,36.8534674
+229660827,OSM_229660827,"Nairobi Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2350694,36.8105743
+232010702,OSM_232010702,"Lions SightFirst Eye Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2553732,36.7498157
+238681878,OSM_238681878,"Gertrude's Children Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2560523,36.8317759
+241557230,OSM_241557230,"Nairobi Women's Hospital",Hospital,Level 4,"Private",Private,Operational,Nairobi,-1.2938006,36.7964992
+244390897,OSM_244390897,"Gertrude's Children Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2561208,36.8321347
+244390901,OSM_244390901,"Muthaiga Pediatrics",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2554752,36.8316734
+245262898,OSM_245262898,"Kenyatta National Hospital",Hospital,Level 4,"Ministry of Health",Public,Operational,Nairobi,-1.3011014,36.8069052
+247396175,OSM_247396175,"Better Living Hospital",Hospital,Level 4,"Maxwell SDA",Private,Operational,Nairobi,-1.2891411,36.8084471
+247893608,OSM_247893608,"Islamic Republic of Iran Medical Clinic",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2987660,36.7646292
+247897207,OSM_247897207,"Ngong Road Health Centre",Hospital,Level 4,"Nairobi County",Public,Operational,Nairobi,-1.3006540,36.7596141
+262643069,OSM_262643069,"Sanatorium",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3008098,36.7290230
+314452231,OSM_314452231,"Central hospital",Hospital,Level 4,"Private Practice - Private Institution Academic",Private,Operational,Nairobi,-1.2853881,36.8115015
+361634731,OSM_361634731,"Maria Immaculata Hospital (MCH)",Hospital,Level 4,"Catholic Church",Private,Operational,Nairobi,-1.2893374,36.7647824
+364995021,OSM_364995021,"Mariakani Cottage Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3118558,36.8349068
+364999038,OSM_364999038,"Rack Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3118525,36.8341682
+387483418,OSM_387483418,"Health Facility (OSM #387483418)",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.3000622,36.7900774
+389490442,OSM_389490442,"The Mater Misericordiae Hospital (Mukuru)",Hospital,Level 4,"sisters of Mercy (Ireland)",Private,Operational,Nairobi,-1.3075076,36.8346850
+401976009,OSM_401976009,"Technical University Dispensary",Clinic,Level 3,"Technical University of Kenya",Private,Operational,Nairobi,-1.2912969,36.8243089
+417007849,OSM_417007849,"MSF Belgium Clinic",Hospital,Level 4,"MÃ©decins sans frontiÃ¨res",Private,Operational,Nairobi,-1.3135521,36.7895009
+421281956,OSM_421281956,"Ngong Road Health Centre",Hospital,Level 4,"Nairobi County",Public,Operational,Nairobi,-1.3017162,36.7603776
+480274384,OSM_480274384,"Jamhuri Medical Clinic",Hospital,Level 4,"private enterprise",Private,Operational,Nairobi,-1.3085078,36.7730205
+481843899,OSM_481843899,"Rosade Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3111775,36.7752804
+515200237,OSM_515200237,"Kenyatta University Teaching, Referral & Research Hospital",Hospital,Level 4,"Kenyatta University",Private,Operational,Nairobi,-1.1773891,36.9155120
+532925347,OSM_532925347,"St Mary's Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3120079,36.7835427
+539590602,OSM_539590602,"Jafwack Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3132255,36.7995997
+539695069,OSM_539695069,"Royal Medical & Maternity",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3157858,36.7940025
+539720798,OSM_539720798,"Tetani Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3148232,36.8020061
+539777252,OSM_539777252,"St Mary's Albert Memorial",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3166448,36.7952954
+540097812,OSM_540097812,"slum medical clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3139833,36.7916267
+552308589,OSM_552308589,"Gertrudes Childrens Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2868832,36.7727354
+553101647,OSM_553101647,"Aga Khan Muthithi Medical Centre",Hospital,Level 4,"Private Practice - Private Company",Private,Operational,Nairobi,-1.2687375,36.8101100
+553282255,OSM_553282255,"Mediheal Diagnostic & Fertility Centre",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2625501,36.8237161
+553282260,OSM_553282260,"Avenue Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2647225,36.8175492
+560142849,OSM_560142849,"Coptic Hospital",Hospital,Level 4,"Coptic Orthodox Church",Private,Operational,Nairobi,-1.2979465,36.7977257
+569280187,OSM_569280187,"Pumwani Maternity Hospital",Hospital,Level 4,"Nairobi city county government",Public,Operational,Nairobi,-1.2812236,36.8456223
+606344975,OSM_606344975,"Riversite Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2677101,36.7630127
+607340341,OSM_607340341,"St. Mary's Mission Hospital",Hospital,Level 4,"Assumption Sisters of Nairobi",Private,Operational,Nairobi,-1.3235852,36.7756629
+622262233,OSM_622262233,"Mission Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3078487,36.7861005
+622320507,OSM_622320507,"Chemi Chemi ya Uzima Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3071224,36.7879916
+622695767,OSM_622695767,"KIbera D.O. Health Centre",Hospital,Level 4,"Private/Public",Public,Operational,Nairobi,-1.3061883,36.7881300
+667231411,OSM_667231411,"Ruaraka Uhai Neema Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2271866,36.8849823
+670737779,OSM_670737779,"Dr Rasik Kantaria Jalaram Medical Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2582726,36.8067138
+685352933,OSM_685352933,"Health Facility (OSM #685352933)",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2600494,36.8449156
+685857773,OSM_685857773,"The Nairobi Women's Hospital - Adams",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2991101,36.7817724
+713445395,OSM_713445395,"Neema plaza VAVEL MEDICAL CENTRE BUILDING NEXT TO BETIN;VAVEL MEDICAL CENTRE",Hospital,Level 4,"VAVEL MEDICAL CENTRE",Private,Operational,Nairobi,-1.3100481,36.8878854
+727456970,OSM_727456970,"Jamaa Mission",Hospital,Level 4,"Kenya Episcopal conference(catholic secretariant)",Private,Operational,Nairobi,-1.2815188,36.8733588
+727456972,OSM_727456972,"Metropolitan Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2876359,36.8750864
+731056041,OSM_731056041,"Mathari National Teaching & Referral Hospital",Hospital,Level 4,"Government",Private,Operational,Nairobi,-1.2603033,36.8460973
+787165799,OSM_787165799,"Mbagathi District Hospital (IDH)",Hospital,Level 4,"Nairobi county government",Public,Operational,Nairobi,-1.3084036,36.8034933
+788848210,OSM_788848210,"mathare family Hope centre",Hospital,Level 4,"ngo",Private,Operational,Nairobi,-1.2641464,36.8546990
+788848228,OSM_788848228,"KENWA",Hospital,Level 4,"community based organization",Private,Operational,Nairobi,-1.2641896,36.8539667
+792407308,OSM_792407308,"Wema Medical Clinic",Hospital,Level 4,"Private Practice - Nurse / Midwifery",Private,Operational,Nairobi,-1.3155889,36.7789132
+792407657,OSM_792407657,"Wema Medical Clinic",Hospital,Level 4,"Child and Family wellness shops",Private,Operational,Nairobi,-1.3144587,36.7817161
+792408013,OSM_792408013,"Mwangaza ulio na Tumaini Clinic",Hospital,Level 4,"Christian Health Association of Kenya",Private,Operational,Nairobi,-1.3129573,36.7846273
+792408403,OSM_792408403,"Merciline Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3131763,36.7842173
+792422360,OSM_792422360,"Ayany Clinic and Laboratory",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3099538,36.7752731
+792423672,OSM_792423672,"Vipawa Health Services",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3112179,36.7850025
+792427700,OSM_792427700,"Annex Medical Clinic and Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3152136,36.7997557
+792429934,OSM_792429934,"SECOND AVENUE MEDICAL CLINIC",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3192607,36.8874400
+792429936,OSM_792429936,"Riverside medical clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3143266,36.8823602
+792432279,OSM_792432279,"Tumaini community clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3152562,36.8857876
+792434805,OSM_792434805,"TUMAINI COMMUNITY HOSPITAL",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3182244,36.8875809
+792434806,OSM_792434806,"Kingoni Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3175195,36.8717873
+792437425,OSM_792437425,"Dom Health Care",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3213740,36.8875235
+792437427,OSM_792437427,"Ebenezer Maternity And Baby Care",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3138438,36.8831481
+792438889,OSM_792438889,"Afya Medical Clinic",Hospital,Level 4,"nurse led private clinic",Private,Operational,Nairobi,-1.3131740,36.8837561
+792441394,OSM_792441394,"Afya Health Services",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2547215,36.8775560
+792448302,OSM_792448302,"Fikiria Jamii Health Centre",Hospital,Level 4,"private",Private,Operational,Nairobi,-1.2651925,36.8556626
+792448303,OSM_792448303,"Charity Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2593658,36.8779099
+792456296,OSM_792456296,"Huruma nursing home",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2582447,36.8755809
+792456297,OSM_792456297,"Elra medical clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2619609,36.8590259
+792456298,OSM_792456298,"Baraka Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2599999,36.8605289
+792485435,OSM_792485435,"Fikiria Jamii Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2576379,36.8740214
+792485436,OSM_792485436,"Tunza Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2592839,36.8670775
+792485437,OSM_792485437,"Mundika Nursing Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2575070,36.8690141
+792485438,OSM_792485438,"Lions Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2606334,36.8669219
+792488918,OSM_792488918,"Ubora Herbal Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2595732,36.8644553
+792488919,OSM_792488919,"Grace Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2588783,36.8640963
+792488920,OSM_792488920,"Partriot Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2592752,36.8642892
+792488921,OSM_792488921,"St. Kelly Medical Clinic/ Lab",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2556780,36.8742051
+792498481,OSM_792498481,"The Villa Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2600238,36.8672902
+792498482,OSM_792498482,"Pat Dos Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2577245,36.8680302
+792498483,OSM_792498483,"Wakibe Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2590773,36.8670139
+792498484,OSM_792498484,"Bonfaith medical centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2597259,36.8687928
+792512189,OSM_792512189,"Setlight provided NGO",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2594157,36.8647713
+792512190,OSM_792512190,"Mwangaza provide dental clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2585676,36.8646847
+792512191,OSM_792512191,"Sad health clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2585170,36.8656378
+792515244,OSM_792515244,"Hurlingham Medical Center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2954730,36.8014666
+792519971,OSM_792519971,"Mbimwa Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3141784,36.8851235
+792812411,OSM_792812411,"St. Paul's Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3194516,36.8871741
+792812412,OSM_792812412,"Be well medical clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3235235,36.8886961
+792817403,OSM_792817403,"Spensta Medical Clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3221231,36.8872274
+792819989,OSM_792819989,"amani hospital maternity service center",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3168275,36.8751932
+792826248,OSM_792826248,"St Odilias Dispensary",Hospital,Level 4,"Kenya Episcopal conference(catholic secretariant)",Private,Operational,Nairobi,-1.3105690,36.6906946
+792840934,OSM_792840934,"Getrude's Children's Hospital",Hospital,Level 4,"charitable trust",Private,Operational,Nairobi,-1.3075953,36.8198109
+792844501,OSM_792844501,"Bidii Nursing Home",Hospital,Level 4,"Ministry of Health",Public,Operational,Nairobi,-1.2471795,36.8927043
+792847276,OSM_792847276,"Menelik Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2969623,36.7838170
+792855253,OSM_792855253,"Vostrum Clinic,Kibera Branch",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3078069,36.7811431
+792855254,OSM_792855254,"Joseph Kangethe maternity and child welfare clinic",Hospital,Level 4,"private",Private,Operational,Nairobi,-1.3029778,36.7846117
+792865794,OSM_792865794,"St. catherine health centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3078382,36.8334012
+792870363,OSM_792870363,"Nairobi South Medical Centre",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3138096,36.8286107
+792886691,OSM_792886691,"DRUGHILLCHEMIST",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2522480,36.8675236
+792886692,OSM_792886692,"ST.PATRICK MEDICAL CLINIC",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2554859,36.8663397
+792908507,OSM_792908507,"Imani medical clinic",Hospital,Level 4,"Indipendent medical professionals",Private,Operational,Nairobi,-1.2539073,36.8592280
+792911682,OSM_792911682,"Upendo Dispensary",Clinic,Level 3,"Private/Public",Private,Operational,Nairobi,-1.2633608,36.8584494
+792911683,OSM_792911683,"Motherwell clinic",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2630337,36.8568592
+792913688,OSM_792913688,"Kemrif hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2420132,36.8933856
+796932569,OSM_796932569,"Dental Surgeons - Vinayak & Popat",Hospital,Level 4,"private",Private,Operational,Nairobi,-1.2604934,36.8005120
+796938692,OSM_796938692,"National Spinal Injury Referral Hospital",Hospital,Level 4,"Ministry of Health",Public,Operational,Nairobi,-1.2881144,36.7940216
+797326403,OSM_797326403,"Karen Surgery",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3245598,36.7024770
+797375160,OSM_797375160,"Dandora Health Centre",Hospital,Level 4,"City Council",Private,Operational,Nairobi,-1.2600596,36.8886779
+797393187,OSM_797393187,"The Nairobi West Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3065045,36.8256861
+797395618,OSM_797395618,"Care Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2805040,36.8467668
+797428991,OSM_797428991,"Medanta Kenya",Hospital,Level 4,"Private Practice - Private Institution Academic",Private,Operational,Nairobi,-1.2602386,36.7886624
+797456423,OSM_797456423,"Kibera South Health Center",Hospital,Level 4,"Private/Public",Public,Operational,Nairobi,-1.3150731,36.7889999
+797828437,OSM_797828437,"Melchizedek Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2944632,36.7551635
+797830116,OSM_797830116,"Precise Imaging upperhill",Hospital,Level 4,"private enterprise",Private,Operational,Nairobi,-1.3063811,36.8115572
+797892264,OSM_797892264,"Garden Specialist Hospital",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2888363,36.7979193
+798292621,OSM_798292621,"St. Scholastica Uzima Hospital",Hospital,Level 4,"private",Private,Operational,Nairobi,-1.2533589,36.8567238
+798351082,OSM_798351082,"Kasarani Maternity & Nursing Home",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2215820,36.9133954
+798351083,OSM_798351083,"St . Francis Community Hospital",Hospital,Level 4,"Little Sisters of St Francis",Private,Operational,Nairobi,-1.2254776,36.9162453
+798364261,OSM_798364261,"Riruta Health Centre",Hospital,Level 4,"Ministry of Health",Public,Operational,Nairobi,-1.2908119,36.7271468
+798371866,OSM_798371866,"Gertrudes Childrens",Hospital,Level 4,"private",Private,Operational,Nairobi,-1.2670697,36.9108887
+894947899,OSM_894947899,"Bristol Park Hospital-fedha",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.3133080,36.8965743
+986396736,OSM_986396736,"Makwak (Maendneleo Afya Kwa Wote Korogocho)",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2519550,36.8891339
+1003468531,OSM_1003468531,"Swaminarayan Hospital",Hospital,Level 4,"private",Private,Operational,Nairobi,-1.3291927,36.7983106
+1069167725,OSM_1069167725,"Golden Hope Healthcare",Hospital,Level 4,"Private/Public",Private,Operational,Nairobi,-1.2755688,36.9782485
+1088119325,OSM_1088119325,"Neem Pharmacy",Pharmacy,Level 2,"Private/Public",Private,Operational,Nairobi,-1.2926282,36.7869129
+1098773839,OSM_1098773839,"Pharmaplus Pharmacies",Pharmacy,Level 2,"Private",Private,Operational,Nairobi,-1.2599443,36.7861004
+1284855298,OSM_1284855298,"Texas Cancer Centre, Nairobi",Hospital,Level 4,"private enterprise",Private,Operational,Nairobi,-1.3122958,36.8137205
+1290048300,OSM_1290048300,"Kianda 42 level 4 HOSPITAL",Hospital,Level 4,"Nairobi City County",Public,Operational,Nairobi,-1.3078639,36.7719797
+1290049656,OSM_1290049656,"Ushirika Kianda 42 Hospital",Hospital,Level 4,"Ministry of health",Public,Operational,Nairobi,-1.3076541,36.7725774
+1305447817,OSM_1305447817,"Nairobi Adventist Hospital",Hospital,Level 4,"Seventh-day Adventist (SDA) Church",Private,Operational,Nairobi,-1.2243133,36.7831934
+1544750662,OSM_1544750662,"Mbagathi County Referral Hospital",Hospital,Level 4,"Nairobi County government",Public,Operational,Nairobi,-1.3091113,36.8033266
+1544752632,OSM_1544752632,"Kenya Defense Forces Memorial Hospital",Hospital,Level 4,"Ministry of Defense",Public,Operational,Nairobi,-1.3111905,36.8043334

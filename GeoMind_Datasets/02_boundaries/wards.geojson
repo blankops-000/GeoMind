@@ -1,0 +1,158 @@
+﻿{
+    "features":  [
+                     {
+                         "properties":  {
+                                            "id":  1,
+                                            "name":  "Kenyatta Golf Course",
+                                            "code":  "KE047_W01",
+                                            "county":  "Nairobi",
+                                            "area_sq_km":  3.8,
+                                            "subcounty":  "Kibra",
+                                            "population":  38400
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              [
+                                                                  36.8,
+                                                                  -1.31
+                                                              ],
+                                                              [
+                                                                  36.82,
+                                                                  -1.31
+                                                              ],
+                                                              [
+                                                                  36.82,
+                                                                  -1.295
+                                                              ],
+                                                              [
+                                                                  36.8,
+                                                                  -1.295
+                                                              ],
+                                                              [
+                                                                  36.8,
+                                                                  -1.31
+                                                              ]
+                                                          ],
+                                          "type":  "MultiPolygon"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "id":  2,
+                                            "name":  "Makina",
+                                            "code":  "KE047_W02",
+                                            "county":  "Nairobi",
+                                            "area_sq_km":  2.1,
+                                            "subcounty":  "Kibra",
+                                            "population":  72500
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              [
+                                                                  36.775,
+                                                                  -1.325
+                                                              ],
+                                                              [
+                                                                  36.795,
+                                                                  -1.325
+                                                              ],
+                                                              [
+                                                                  36.795,
+                                                                  -1.305
+                                                              ],
+                                                              [
+                                                                  36.775,
+                                                                  -1.305
+                                                              ],
+                                                              [
+                                                                  36.775,
+                                                                  -1.325
+                                                              ]
+                                                          ],
+                                          "type":  "MultiPolygon"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "id":  3,
+                                            "name":  "Kwa Njenga",
+                                            "code":  "KE047_W03",
+                                            "county":  "Nairobi",
+                                            "area_sq_km":  4.5,
+                                            "subcounty":  "Embakasi South",
+                                            "population":  84100
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              [
+                                                                  36.87,
+                                                                  -1.345
+                                                              ],
+                                                              [
+                                                                  36.895,
+                                                                  -1.345
+                                                              ],
+                                                              [
+                                                                  36.895,
+                                                                  -1.32
+                                                              ],
+                                                              [
+                                                                  36.87,
+                                                                  -1.32
+                                                              ],
+                                                              [
+                                                                  36.87,
+                                                                  -1.345
+                                                              ]
+                                                          ],
+                                          "type":  "MultiPolygon"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "id":  4,
+                                            "name":  "Ruai",
+                                            "code":  "KE047_W04",
+                                            "county":  "Nairobi",
+                                            "area_sq_km":  98.2,
+                                            "subcounty":  "Kasarani",
+                                            "population":  46200
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              [
+                                                                  36.95,
+                                                                  -1.29
+                                                              ],
+                                                              [
+                                                                  37,
+                                                                  -1.29
+                                                              ],
+                                                              [
+                                                                  37,
+                                                                  -1.25
+                                                              ],
+                                                              [
+                                                                  36.95,
+                                                                  -1.25
+                                                              ],
+                                                              [
+                                                                  36.95,
+                                                                  -1.29
+                                                              ]
+                                                          ],
+                                          "type":  "MultiPolygon"
+                                      }
+                     }
+                 ],
+    "type":  "FeatureCollection",
+    "metadata":  {
+                     "demo_area":  "Nairobi County",
+                     "crs":  "EPSG:4326",
+                     "total_wards":  85
+                 }
+}

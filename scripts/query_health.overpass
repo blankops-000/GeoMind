@@ -1,0 +1,7 @@
+[out:json][timeout:90];
+area["name"="Nairobi"]["admin_level"="4"]->.a;
+(
+  node["amenity"~"hospital|clinic|doctors|pharmacy"](area.a);
+  way["amenity"~"hospital|clinic|doctors|pharmacy"](area.a);
+);
+out center body;
