@@ -91,7 +91,7 @@ def init_extensions_and_schema(conn):
     # 2. Schema DDL
     schema_file = os.path.join(INIT_DIR, "02_schema.sql")
     if os.path.exists(schema_file):
-        with open(schema_file, "r", encoding="utf-8") as f:
+        with open(schema_file, "r", encoding="utf-8-sig") as f:
             schema_sql = f.read()
         cur.execute(schema_sql)
         print("  [x] Complete schema tables, indexes, views, and functions created.")
@@ -112,7 +112,7 @@ def load_health_facilities(conn):
         print(f"  [!] File not found: {hf_file}")
         return
 
-    with open(hf_file, "r", encoding="utf-8") as f:
+    with open(hf_file, "r", encoding="utf-8-sig") as f:
         data = json.load(f)
 
     features = data.get("features", [])
@@ -178,7 +178,7 @@ def load_boundaries_and_roads(conn):
     # 1. Counties
     counties_file = os.path.join(DATASETS_DIR, "02_boundaries", "counties.geojson")
     if os.path.exists(counties_file):
-        with open(counties_file, "r", encoding="utf-8") as f:
+        with open(counties_file, "r", encoding="utf-8-sig") as f:
             c_data = json.load(f)
         for feat in c_data.get("features", []):
             p = feat.get("properties", {})
@@ -195,7 +195,7 @@ def load_boundaries_and_roads(conn):
     # 2. Sub-counties
     sub_file = os.path.join(DATASETS_DIR, "02_boundaries", "subcounties.geojson")
     if os.path.exists(sub_file):
-        with open(sub_file, "r", encoding="utf-8") as f:
+        with open(sub_file, "r", encoding="utf-8-sig") as f:
             s_data = json.load(f)
         for feat in s_data.get("features", []):
             p = feat.get("properties", {})
@@ -212,7 +212,7 @@ def load_boundaries_and_roads(conn):
     # 3. Wards
     wards_file = os.path.join(DATASETS_DIR, "02_boundaries", "wards.geojson")
     if os.path.exists(wards_file):
-        with open(wards_file, "r", encoding="utf-8") as f:
+        with open(wards_file, "r", encoding="utf-8-sig") as f:
             w_data = json.load(f)
         for feat in w_data.get("features", []):
             p = feat.get("properties", {})
@@ -244,7 +244,7 @@ def load_boundaries_and_roads(conn):
     # 4. Roads Network
     roads_file = os.path.join(DATASETS_DIR, "04_roads", "roads.geojson")
     if os.path.exists(roads_file):
-        with open(roads_file, "r", encoding="utf-8") as f:
+        with open(roads_file, "r", encoding="utf-8-sig") as f:
             r_data = json.load(f)
         r_features = r_data.get("features", [])
         for feat in r_features:
