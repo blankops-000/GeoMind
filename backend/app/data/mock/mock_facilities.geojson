@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.55, -1.45]
+      },
+      "properties": {
+        "name": "Health Facility 1",
+        "feature_type": "health_facility",
+        "category": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.65, -1.45]
+      },
+      "properties": {
+        "name": "Health Facility 2",
+        "feature_type": "health_facility",
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.75, -1.45]
+      },
+      "properties": {
+        "name": "Health Facility 3",
+        "feature_type": "health_facility",
+        "category": "health_center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.85, -1.45]
+      },
+      "properties": {
+        "name": "Health Facility 4",
+        "feature_type": "health_facility",
+        "category": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.95, -1.45]
+      },
+      "properties": {
+        "name": "Health Facility 5",
+        "feature_type": "health_facility",
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.55, -1.25]
+      },
+      "properties": {
+        "name": "Health Facility 6",
+        "feature_type": "health_facility",
+        "category": "health_center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.65, -1.25]
+      },
+      "properties": {
+        "name": "Health Facility 7",
+        "feature_type": "health_facility",
+        "category": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.75, -1.25]
+      },
+      "properties": {
+        "name": "Health Facility 8",
+        "feature_type": "health_facility",
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.85, -1.25]
+      },
+      "properties": {
+        "name": "Health Facility 9",
+        "feature_type": "health_facility",
+        "category": "health_center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.95, -1.25]
+      },
+      "properties": {
+        "name": "Health Facility 10",
+        "feature_type": "health_facility",
+        "category": "clinic"
+      }
+    }
+  ]
+}
