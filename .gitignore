@@ -1,0 +1,50 @@
+# Environment
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+*.egg
+
+# Node (if any tooling)
+node_modules/
+
+# Raw & processed data (too large for git)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Database dumps
+*.sql.gz
+*.dump
+*.backup
+*.tar
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker volumes (local)
+pgdata/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

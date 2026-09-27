@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated_at": "2026-09-27T16:00:00Z",
+    "source": "KMHFR - Kenya Master Health Facility Registry",
+    "demo_area": "Nairobi County",
+    "crs": "EPSG:4326"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8078, -1.3015]
+      },
+      "properties": {
+        "id": 1,
+        "facility_code": "13023",
+        "name": "Kenyatta National Hospital",
+        "facility_type": "National Referral Hospital",
+        "keph_level": "Level 6",
+        "ownership": "Ministry of Health",
+        "owner_type": "Public",
+        "status": "Operational",
+        "subcounty": "Kibra",
+        "ward": "Kenyatta Golf Course",
+        "beds": 1800,
+        "services": ["Emergency", "ICU", "Maternity", "Surgery", "Oncology", "Pediatrics"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8145, -1.2721]
+      },
+      "properties": {
+        "id": 2,
+        "facility_code": "13088",
+        "name": "The Nairobi Hospital",
+        "facility_type": "Tertiary Referral Hospital",
+        "keph_level": "Level 6",
+        "ownership": "Private Practice",
+        "owner_type": "Private",
+        "status": "Operational",
+        "subcounty": "Dagoretti North",
+        "ward": "Kilimani",
+        "beds": 355,
+        "services": ["Emergency", "Trauma", "Cardiology", "Surgery"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8482, -1.2825]
+      },
+      "properties": {
+        "id": 3,
+        "facility_code": "13110",
+        "name": "Pumwani Maternity Hospital",
+        "facility_type": "Specialized Hospital",
+        "keph_level": "Level 5",
+        "ownership": "County Government of Nairobi",
+        "owner_type": "Public",
+        "status": "Operational",
+        "subcounty": "Kamukunji",
+        "ward": "Pumwani",
+        "beds": 354,
+        "services": ["Maternity", "Neonatal ICU", "Obstetrics", "Family Planning"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8920, -1.2780]
+      },
+      "properties": {
+        "id": 4,
+        "facility_code": "13065",
+        "name": "Mama Lucy Kibaki Hospital",
+        "facility_type": "County Referral Hospital",
+        "keph_level": "Level 5",
+        "ownership": "County Government of Nairobi",
+        "owner_type": "Public",
+        "status": "Operational",
+        "subcounty": "Embakasi Central",
+        "ward": "Komarock",
+        "beds": 200,
+        "services": ["Emergency", "Maternity", "General Surgery", "Inpatient"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8091, -1.3120]
+      },
+      "properties": {
+        "id": 5,
+        "facility_code": "13045",
+        "name": "Mbagathi County Hospital",
+        "facility_type": "County Referral Hospital",
+        "keph_level": "Level 5",
+        "ownership": "County Government of Nairobi",
+        "owner_type": "Public",
+        "status": "Operational",
+        "subcounty": "Langata",
+        "ward": "Nairobi West",
+        "beds": 280,
+        "services": ["Infectious Diseases", "Inpatient", "Maternity", "Outpatient"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8610, -1.2580]
+      },
+      "properties": {
+        "id": 6,
+        "facility_code": "13092",
+        "name": "Mathari National Teaching and Referral Hospital",
+        "facility_type": "National Referral Hospital",
+        "keph_level": "Level 6",
+        "ownership": "Ministry of Health",
+        "owner_type": "Public",
+        "status": "Operational",
+        "subcounty": "Ruaraka",
+        "ward": "Utalii",
+        "beds": 700,
+        "services": ["Psychiatry", "Substance Rehabilitation", "General Outpatient"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8780, -1.3320]
+      },
+      "properties": {
+        "id": 7,
+        "facility_code": "13144",
+        "name": "Mukuru Health Centre",
+        "facility_type": "Health Centre",
+        "keph_level": "Level 3",
+        "ownership": "County Government of Nairobi",
+        "owner_type": "Public",
+        "status": "Operational",
+        "subcounty": "Embakasi South",
+        "ward": "Kwa Njenga",
+        "beds": 25,
+        "services": ["Outpatient", "Immunization", "Antenatal", "HIV Testing"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.7865, -1.3142]
+      },
+      "properties": {
+        "id": 8,
+        "facility_code": "13201",
+        "name": "Kibera South Health Centre",
+        "facility_type": "Health Centre",
+        "keph_level": "Level 3",
+        "ownership": "Faith Based / NGO",
+        "owner_type": "Faith Based",
+        "status": "Operational",
+        "subcounty": "Kibra",
+        "ward": "Makina",
+        "beds": 15,
+        "services": ["Emergency Stabilization", "Maternal Care", "Outpatient"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.9850, -1.2650]
+      },
+      "properties": {
+        "id": 9,
+        "facility_code": "13250",
+        "name": "Ruai Dispensary",
+        "facility_type": "Dispensary",
+        "keph_level": "Level 2",
+        "ownership": "County Government of Nairobi",
+        "owner_type": "Public",
+        "status": "Operational",
+        "subcounty": "Kasaranai",
+        "ward": "Ruai",
+        "beds": 4,
+        "services": ["Basic Outpatient", "Child Immunization"]
+      }
+    }
+  ]
+}

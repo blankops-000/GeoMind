@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated_at": "2026-09-27T16:00:00Z",
+    "demo_area": "Nairobi County",
+    "run_id": 1,
+    "crs": "EPSG:4326"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [36.800, -1.295],
+              [36.820, -1.295],
+              [36.820, -1.310],
+              [36.800, -1.310],
+              [36.800, -1.295]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Kenyatta Golf Course",
+        "type": "ward",
+        "nearest_facility": "Kenyatta National Hospital",
+        "distance_meters": 450.0,
+        "travel_time_minutes": 5.2,
+        "facilities_within_5km": 8,
+        "facilities_within_10km": 24,
+        "population": 38400,
+        "score": 92.5,
+        "category": "excellent",
+        "factors": {
+          "hospital_proximity": "direct",
+          "road_infrastructure": "paved_high_density",
+          "coverage_ratio": "optimal"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [36.775, -1.305],
+              [36.795, -1.305],
+              [36.795, -1.325],
+              [36.775, -1.325],
+              [36.775, -1.305]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Makina / Kibera",
+        "type": "ward",
+        "nearest_facility": "Kibera South Health Centre",
+        "distance_meters": 1200.0,
+        "travel_time_minutes": 18.5,
+        "facilities_within_5km": 5,
+        "facilities_within_10km": 19,
+        "population": 72500,
+        "score": 52.0,
+        "category": "moderate",
+        "factors": {
+          "hospital_proximity": "moderate",
+          "road_infrastructure": "narrow_unpaved_informal",
+          "congestion_penalty": "high"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [36.870, -1.320],
+              [36.895, -1.320],
+              [36.895, -1.345],
+              [36.870, -1.345],
+              [36.870, -1.320]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Kwa Njenga",
+        "type": "ward",
+        "nearest_facility": "Mukuru Health Centre",
+        "distance_meters": 2400.0,
+        "travel_time_minutes": 24.0,
+        "facilities_within_5km": 3,
+        "facilities_within_10km": 11,
+        "population": 84100,
+        "score": 34.0,
+        "category": "limited",
+        "factors": {
+          "hospital_proximity": "limited",
+          "road_infrastructure": "industrial_corridor_chokepoints",
+          "inpatient_shortage": "acute"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [36.950, -1.250],
+              [37.000, -1.250],
+              [37.000, -1.290],
+              [36.950, -1.290],
+              [36.950, -1.250]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Ruai",
+        "type": "ward",
+        "nearest_facility": "Ruai Dispensary",
+        "distance_meters": 7800.0,
+        "travel_time_minutes": 48.0,
+        "facilities_within_5km": 1,
+        "facilities_within_10km": 2,
+        "population": 46200,
+        "score": 14.5,
+        "category": "critical",
+        "factors": {
+          "hospital_proximity": "remote",
+          "nearest_referral_hospital_km": 18.2,
+          "road_infrastructure": "peri_urban_scattered"
+        }
+      }
+    }
+  ]
+}
