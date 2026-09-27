@@ -22,10 +22,10 @@ CREATE TABLE IF NOT EXISTS administrative_boundaries (
     geom            GEOMETRY(MultiPolygon, 4326) NOT NULL
 );
 
-CREATE INDEX idx_admin_geom        ON administrative_boundaries USING GIST (geom);
-CREATE INDEX idx_admin_level       ON administrative_boundaries (level);
-CREATE INDEX idx_admin_parent      ON administrative_boundaries (parent_id);
-CREATE INDEX idx_admin_name_trgm   ON administrative_boundaries USING GIN (name gin_trgm_ops);
+CREATE INDEX IF NOT EXISTS idx_admin_geom        ON administrative_boundaries USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_admin_level       ON administrative_boundaries (level);
+CREATE INDEX IF NOT EXISTS idx_admin_parent      ON administrative_boundaries (parent_id);
+CREATE INDEX IF NOT EXISTS idx_admin_name_trgm   ON administrative_boundaries USING GIN (name gin_trgm_ops);
 
 COMMENT ON TABLE administrative_boundaries IS 'Kenya administrative units: counties, sub-counties, wards. Source: Kenya Open Data / HDX.';
 
@@ -59,15 +59,15 @@ CREATE TABLE IF NOT EXISTS health_facilities (
     geom            GEOMETRY(Point, 4326)                  -- Built from lat/lon
 );
 
-CREATE INDEX idx_hf_geom           ON health_facilities USING GIST (geom);
-CREATE INDEX idx_hf_type           ON health_facilities (facility_type);
-CREATE INDEX idx_hf_ownership      ON health_facilities (owner_type);
-CREATE INDEX idx_hf_keph           ON health_facilities (keph_level);
-CREATE INDEX idx_hf_status         ON health_facilities (operational_status);
-CREATE INDEX idx_hf_county         ON health_facilities (county);
-CREATE INDEX idx_hf_subcounty      ON health_facilities (subcounty);
-CREATE INDEX idx_hf_ward           ON health_facilities (ward);
-CREATE INDEX idx_hf_name_trgm      ON health_facilities USING GIN (name gin_trgm_ops);
+CREATE INDEX IF NOT EXISTS idx_hf_geom           ON health_facilities USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_hf_type           ON health_facilities (facility_type);
+CREATE INDEX IF NOT EXISTS idx_hf_ownership      ON health_facilities (owner_type);
+CREATE INDEX IF NOT EXISTS idx_hf_keph           ON health_facilities (keph_level);
+CREATE INDEX IF NOT EXISTS idx_hf_status         ON health_facilities (operational_status);
+CREATE INDEX IF NOT EXISTS idx_hf_county         ON health_facilities (county);
+CREATE INDEX IF NOT EXISTS idx_hf_subcounty      ON health_facilities (subcounty);
+CREATE INDEX IF NOT EXISTS idx_hf_ward           ON health_facilities (ward);
+CREATE INDEX IF NOT EXISTS idx_hf_name_trgm      ON health_facilities USING GIN (name gin_trgm_ops);
 
 COMMENT ON TABLE health_facilities IS 'Health facilities in Nairobi County. Source: Kenya Master Health Facility Registry (KMHFR).';
 
@@ -89,9 +89,9 @@ CREATE TABLE IF NOT EXISTS roads (
     geom            GEOMETRY(LineString, 4326) NOT NULL
 );
 
-CREATE INDEX idx_roads_geom        ON roads USING GIST (geom);
-CREATE INDEX idx_roads_class       ON roads (road_class);
-CREATE INDEX idx_roads_surface     ON roads (surface);
+CREATE INDEX IF NOT EXISTS idx_roads_geom        ON roads USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_roads_class       ON roads (road_class);
+CREATE INDEX IF NOT EXISTS idx_roads_surface     ON roads (surface);
 
 COMMENT ON TABLE roads IS 'Road network for Nairobi County. Source: OpenStreetMap via Overpass API.';
 
@@ -112,8 +112,8 @@ CREATE TABLE IF NOT EXISTS population_points (
     geom            GEOMETRY(Point, 4326) NOT NULL         -- Centroid of grid cell
 );
 
-CREATE INDEX idx_pop_geom          ON population_points USING GIST (geom);
-CREATE INDEX idx_pop_population    ON population_points (population);
+CREATE INDEX IF NOT EXISTS idx_pop_geom          ON population_points USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_pop_population    ON population_points (population);
 
 COMMENT ON TABLE population_points IS 'Population grid centroids (WorldPop Kenya). Each point represents estimated population in a grid cell.';
 
@@ -132,8 +132,8 @@ CREATE TABLE IF NOT EXISTS settlements (
     geom            GEOMETRY(Point, 4326)
 );
 
-CREATE INDEX idx_settlements_geom  ON settlements USING GIST (geom);
-CREATE INDEX idx_settlements_type  ON settlements (settlement_type);
+CREATE INDEX IF NOT EXISTS idx_settlements_geom  ON settlements USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_settlements_type  ON settlements (settlement_type);
 
 COMMENT ON TABLE settlements IS 'Named settlements and places. Source: OpenStreetMap.';
 
@@ -154,8 +154,8 @@ CREATE TABLE IF NOT EXISTS analysis_regions (
     geom            GEOMETRY(MultiPolygon, 4326) NOT NULL
 );
 
-CREATE INDEX idx_ar_geom           ON analysis_regions USING GIST (geom);
-CREATE INDEX idx_ar_type           ON analysis_regions (region_type);
+CREATE INDEX IF NOT EXISTS idx_ar_geom           ON analysis_regions USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_ar_type           ON analysis_regions (region_type);
 
 COMMENT ON TABLE analysis_regions IS 'Analysis units (wards or grid cells) for accessibility scoring.';
 
@@ -210,9 +210,9 @@ CREATE TABLE IF NOT EXISTS accessibility_results (
     UNIQUE (run_id, region_id)
 );
 
-CREATE INDEX idx_ar_results_run    ON accessibility_results (run_id);
-CREATE INDEX idx_ar_results_cat    ON accessibility_results (accessibility_category);
-CREATE INDEX idx_ar_results_score  ON accessibility_results (accessibility_score);
+CREATE INDEX IF NOT EXISTS idx_ar_results_run    ON accessibility_results (run_id);
+CREATE INDEX IF NOT EXISTS idx_ar_results_cat    ON accessibility_results (accessibility_category);
+CREATE INDEX IF NOT EXISTS idx_ar_results_score  ON accessibility_results (accessibility_score);
 
 COMMENT ON TABLE accessibility_results IS 'Healthcare accessibility scores per region per analysis run.';
 
@@ -237,10 +237,10 @@ CREATE TABLE IF NOT EXISTS spatial_findings (
     created_at      TIMESTAMPTZ DEFAULT NOW()
 );
 
-CREATE INDEX idx_findings_geom     ON spatial_findings USING GIST (geom);
-CREATE INDEX idx_findings_type     ON spatial_findings (finding_type);
-CREATE INDEX idx_findings_severity ON spatial_findings (severity);
-CREATE INDEX idx_findings_run      ON spatial_findings (run_id);
+CREATE INDEX IF NOT EXISTS idx_findings_geom     ON spatial_findings USING GIST (geom);
+CREATE INDEX IF NOT EXISTS idx_findings_type     ON spatial_findings (finding_type);
+CREATE INDEX IF NOT EXISTS idx_findings_severity ON spatial_findings (severity);
+CREATE INDEX IF NOT EXISTS idx_findings_run      ON spatial_findings (run_id);
 
 COMMENT ON TABLE spatial_findings IS 'AI-generated spatial findings and evidence for map display and explanations.';
 
@@ -265,8 +265,8 @@ CREATE TABLE IF NOT EXISTS satellite_imagery (
     created_at      TIMESTAMPTZ DEFAULT NOW()
 );
 
-CREATE INDEX idx_sat_bbox          ON satellite_imagery USING GIST (bbox);
-CREATE INDEX idx_sat_date          ON satellite_imagery (acquisition_date);
+CREATE INDEX IF NOT EXISTS idx_sat_bbox          ON satellite_imagery USING GIST (bbox);
+CREATE INDEX IF NOT EXISTS idx_sat_date          ON satellite_imagery (acquisition_date);
 
 COMMENT ON TABLE satellite_imagery IS 'Metadata for Sentinel-2 scenes. Actual rasters stored on filesystem.';
 
@@ -288,8 +288,8 @@ CREATE TABLE IF NOT EXISTS query_log (
     created_at      TIMESTAMPTZ DEFAULT NOW()
 );
 
-CREATE INDEX idx_ql_session        ON query_log (session_id);
-CREATE INDEX idx_ql_created        ON query_log (created_at);
+CREATE INDEX IF NOT EXISTS idx_ql_session        ON query_log (session_id);
+CREATE INDEX IF NOT EXISTS idx_ql_created        ON query_log (created_at);
 
 COMMENT ON TABLE query_log IS 'Audit log of natural-language queries processed by the AI interface.';
 
